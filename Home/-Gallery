@@ -1,0 +1,509 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="../img/myfavicon.ico" type="image/x-icon">
+    <link rel="icon" href="../img/myfavicon.ico" type="image/x-icon">
+    <title>posh nails and spa - Gallery</title>
+    <meta name="description" content="posh nails and spa is the ideal destination for nail services in the center of tampa fl 33615. we are dedicated to bring top line products mixed with expert technique to the nail salon industry and an affordable price.
+	  
+our specialties includes nails, pedicure, manicures, waxing, facials and eyelashes." />
+    <meta name="keywords" content="posh nails and spa,tampa,manicures,pedicures,facials,eyelashes,waxing" />
+    <meta property="og:url" content="http://poshnailsintampa.com/Home/Gallery" />
+    <meta property="og:type" content="Website" />
+    <meta property="og:title" content="posh nails and spa" />
+    <meta property="og:description" content="posh nails and spa is the ideal destination for nail services in the center of tampa fl 33615. we are dedicated to bring top line products mixed with expert technique to the nail salon industry and an affordable price.
+	  
+our specialties includes nails, pedicure, manicures, waxing, facials and eyelashes." />
+    <meta property="og:image" content="http://poshnailsintampa.com/Home/Gallery/MyPhotosGalary/" />
+    <!-- Bootstrap Core CSS -->
+    <link href="../MySiteTemplate1/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <!-- Custom Fonts -->
+
+    <link href="../MySiteTemplate1/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+    <!-- Plugin CSS -->
+    <link href="../MySiteTemplate1/vendor/magnific-popup/magnific-popup.css" rel="stylesheet" />
+    <!-- Theme CSS -->
+    <link href="../MySiteTemplate1/css/creative.min.css" rel="stylesheet" />
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <style type="text/css">
+        .video-container {
+            position: relative;
+            padding-bottom: 56.25%;
+            padding-top: 30px;
+            height: 0;
+            overflow: hidden;
+        }
+
+            .video-container iframe,
+            .video-container object,
+            .video-container embed {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+            }
+
+            @media only screen and (min-width: 700px) {
+    #bs-example-navbar-collapse-1 {padding-left:100px}
+
+}
+
+
+    </style>
+
+
+
+</head>
+<body id="page-top" class="parse">
+    <nav id="mainNav" class="navbar navbar-default navbar-fixed-top" style='background-color:white; height: 70px;border-bottom-width: thick; border-bottom-color:DarkTurquoise'>
+        <div class="container-fluid" style="height:70px;padding-top:0px; padding-left:0px; padding-right:0px">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header" style="margin:0px">
+                <button style="border-color:DarkTurquoise ; color:DarkTurquoise; margin-top:15px" type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars" style="color:DarkTurquoise"></i>
+                </button>
+                    <a id="storename" class="navbar-brand page-scroll" href="Index#page-top" style="color:DarkTurquoise !important;margin-top:10px; margin-left:3px; text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;">POSH NAILS AND SPA</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" style='background-color:white;border-bottom: thick solid DarkTurquoise; width:inherit; height:70px;max-height:1200px'>
+                <ul class="nav navbar-nav navbar-right" style="text-align:center; margin-top:10px">
+                    <li>
+                        <a class="page-scroll" href="Index#page-top" style='color:DarkTurquoise'>Home</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="Index#about" style='color:DarkTurquoise'>About</a>
+                    </li>
+
+                    <li>
+                        <a class="page-scroll" href="../ServiceAndPrice/ShowService" style='color:DarkTurquoise'>Services</a>
+                    </li>
+
+
+
+
+
+                    <li>
+                        <a class="page-scroll" href="Index#contact" style='color:DarkTurquoise'>Contact</a>
+                    </li>
+
+                    <li>
+                        <a class="page-scroll" href="../Coupon/ShowCoupons" style='color:DarkTurquoise'>Specials</a>
+                    </li>
+                        <li>
+
+                            <a style='color:DarkTurquoise' class="" href='AppointmentLink'>Online_Booking</a>
+                        </li>
+
+
+
+
+                        <li>
+                            <a class="page-scroll" href="../Customer/Subcribe" style='color:DarkTurquoise'>Subscribe</a>
+                        </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+
+
+    <section class="no-padding" id="portfolio" style="margin-top:70px">
+        <div class="container-fluid">
+            <div class="row no-gutter popup-gallery">
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/IMG_9291.JPG" class="portfolio-box">
+                            <img src="../MyPhotosGalary/IMG_9291.JPG" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/IMG_9406.JPG" class="portfolio-box">
+                            <img src="../MyPhotosGalary/IMG_9406.JPG" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/IMG_4744.JPG" class="portfolio-box">
+                            <img src="../MyPhotosGalary/IMG_4744.JPG" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/IMG_8575.JPG" class="portfolio-box">
+                            <img src="../MyPhotosGalary/IMG_8575.JPG" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/manicure2.jpg" class="portfolio-box">
+                            <img src="../MyPhotosGalary/manicure2.jpg" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/IMG_9285.JPG" class="portfolio-box">
+                            <img src="../MyPhotosGalary/IMG_9285.JPG" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/eyelash.jpg" class="portfolio-box">
+                            <img src="../MyPhotosGalary/eyelash.jpg" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/IMG_8563.JPG" class="portfolio-box">
+                            <img src="../MyPhotosGalary/IMG_8563.JPG" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/IMG_4181.JPG" class="portfolio-box">
+                            <img src="../MyPhotosGalary/IMG_4181.JPG" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/IMG_4741.JPG" class="portfolio-box">
+                            <img src="../MyPhotosGalary/IMG_4741.JPG" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/manicure5.jpg" class="portfolio-box">
+                            <img src="../MyPhotosGalary/manicure5.jpg" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/IMG_9029.JPG" class="portfolio-box">
+                            <img src="../MyPhotosGalary/IMG_9029.JPG" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/IMG_8719.JPG" class="portfolio-box">
+                            <img src="../MyPhotosGalary/IMG_8719.JPG" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/IMG_9407.JPG" class="portfolio-box">
+                            <img src="../MyPhotosGalary/IMG_9407.JPG" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/IMG_9286.JPG" class="portfolio-box">
+                            <img src="../MyPhotosGalary/IMG_9286.JPG" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/IMG_2462.JPG" class="portfolio-box">
+                            <img src="../MyPhotosGalary/IMG_2462.JPG" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/IMG_4743.JPG" class="portfolio-box">
+                            <img src="../MyPhotosGalary/IMG_4743.JPG" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/IMG_9293.JPG" class="portfolio-box">
+                            <img src="../MyPhotosGalary/IMG_9293.JPG" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/IMG_7646.JPG" class="portfolio-box">
+                            <img src="../MyPhotosGalary/IMG_7646.JPG" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/waxing1.jpg" class="portfolio-box">
+                            <img src="../MyPhotosGalary/waxing1.jpg" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/IMG_8574.JPG" class="portfolio-box">
+                            <img src="../MyPhotosGalary/IMG_8574.JPG" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/IMG_4740.JPG" class="portfolio-box">
+                            <img src="../MyPhotosGalary/IMG_4740.JPG" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/facial.jpg" class="portfolio-box">
+                            <img src="../MyPhotosGalary/facial.jpg" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/manicure4.jpg" class="portfolio-box">
+                            <img src="../MyPhotosGalary/manicure4.jpg" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/IMG_4742.JPG" class="portfolio-box">
+                            <img src="../MyPhotosGalary/IMG_4742.JPG" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/IMG_4179.JPG" class="portfolio-box">
+                            <img src="../MyPhotosGalary/IMG_4179.JPG" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/IMG_9288.JPG" class="portfolio-box">
+                            <img src="../MyPhotosGalary/IMG_9288.JPG" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/aryclic.jpeg" class="portfolio-box">
+                            <img src="../MyPhotosGalary/aryclic.jpeg" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/permanentMakeup.jpg" class="portfolio-box">
+                            <img src="../MyPhotosGalary/permanentMakeup.jpg" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/pedicure2.jpg" class="portfolio-box">
+                            <img src="../MyPhotosGalary/pedicure2.jpg" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/IMG_4182.JPG" class="portfolio-box">
+                            <img src="../MyPhotosGalary/IMG_4182.JPG" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/hair.jpg" class="portfolio-box">
+                            <img src="../MyPhotosGalary/hair.jpg" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/hostparty1.jpg" class="portfolio-box">
+                            <img src="../MyPhotosGalary/hostparty1.jpg" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/IMG_9070.JPG" class="portfolio-box">
+                            <img src="../MyPhotosGalary/IMG_9070.JPG" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/IMG_4180.JPG" class="portfolio-box">
+                            <img src="../MyPhotosGalary/IMG_4180.JPG" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/IMG_9284.JPG" class="portfolio-box">
+                            <img src="../MyPhotosGalary/IMG_9284.JPG" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/pedicure4.jpg" class="portfolio-box">
+                            <img src="../MyPhotosGalary/pedicure4.jpg" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/IMG_4746.JPG" class="portfolio-box">
+                            <img src="../MyPhotosGalary/IMG_4746.JPG" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/IMG_7645.JPG" class="portfolio-box">
+                            <img src="../MyPhotosGalary/IMG_7645.JPG" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/hostparty2.jpg" class="portfolio-box">
+                            <img src="../MyPhotosGalary/hostparty2.jpg" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/IMG_8565.JPG" class="portfolio-box">
+                            <img src="../MyPhotosGalary/IMG_8565.JPG" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/IMG_1024.JPG" class="portfolio-box">
+                            <img src="../MyPhotosGalary/IMG_1024.JPG" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/IMG_9292.JPG" class="portfolio-box">
+                            <img src="../MyPhotosGalary/IMG_9292.JPG" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                        <a href="../MyPhotosGalary/IMG_9408.JPG" class="portfolio-box">
+                            <img src="../MyPhotosGalary/IMG_9408.JPG" class="img-responsive" alt='POSH NAILS AND SPA'>
+
+                        </a>
+                    </div>
+            </div>
+        </div>
+    </section>
+    <aside class="bg-dark" style="background-color:DarkTurquoise">
+        <div class="container text-center">
+            <div class="call-to-action" style="margin-bottom:70px">
+                <h2>Our Photos Gallery</h2>
+                <a href="Gallery" style="color:DarkTurquoise" class="btn btn-default btn-xl sr-button">Show More...</a>
+            </div>
+        </div>
+    </aside>
+
+    <div style="position:fixed; right:10px; bottom:40px; width:250px;display:inline-block">
+
+        <a style="background:rgba(230,230,230, 0.8); float:left;width:50px;border-radius: 50%;" href='tel:(813) 249-4715'><img src="../img/call&#32;me&#32;small.gif" style="width:50px;border-radius: 50%; border-style:solid; border-color:DarkTurquoise; border-width:thin "></a>
+        <a style="background:rgba(230,230,230, 0.8); float:left;width:50px;border-radius: 50%; margin-left:10px" href='https://goo.gl/maps/Cmp7JKbFDXcH1WUb8'><img src="../img/directionTransparent.png" style="width:50px;border-radius: 50%; border-style:solid; border-color:DarkTurquoise; border-width:thin "></a>
+
+
+            <a style="background:rgba(230,230,230, 0.8); float:left;width:50px;border-radius: 50%; margin-left:10px" href='AppointmentLink'><img src="../img/bookingIcon.png" style="width:50px;border-radius: 50%; border-style:solid; border-color:DarkTurquoise; border-width:thin "></a>
+
+
+    </div>
+
+    <!--social media-->
+        <div style="position:fixed; right:0px; top:80px; background:rgba(230,230,230, 0.2); width:30px;">
+                <a href="https://www.yelp.com/biz/posh-nails-and-spa-tampa" class="fa fa-yelp fa-2x" style="color:red; font-size:xx-large"></a>
+
+
+                <a href="https://goo.gl/maps/Cmp7JKbFDXcH1WUb8" class="fa fa-google-plus-official fa-2x" style="color:forestgreen; font-size:xx-large"></a>
+                            <a href="https://www.facebook.com/poshnailstampa" class="fa fa-facebook-official fa-2x" style="color:dodgerblue; font-size:xx-large"></a>
+                                </div>
+
+
+
+
+    <script>
+        //bold and italic bold("bold this text") italics("italic this text") red("make this text red")
+        //https://stackoverflow.com/questions/46019042/how-to-replace-text-containing-string-with-a-html-tag
+        var parserRules = [
+      { pattern: /bold\("(.*?)"\)/g, replacement: '<b>$1</b>' },
+      { pattern: /italics\("(.*?)"\)/g, replacement: '<i>$1</i>' },
+      { pattern: /underline\("(.*?)"\)/g, replacement: '<u>$1</u>' },
+      { pattern: /red\("(.*?)"\)/g, replacement: '<span style ="color:red">$1</span>' },
+      { pattern: /orange\("(.*?)"\)/g, replacement: '<span style ="color:orange">$1</span>' },
+      { pattern: /green\("(.*?)"\)/g, replacement: '<span style ="color:green">$1</span>' },
+      { pattern: /BOLD\("(.*?)"\)/g, replacement: '<b>$1</b>' },
+      { pattern: /ITALICS\("(.*?)"\)/g, replacement: '<i>$1</i>' },
+      { pattern: /UNDERLINE\("(.*?)"\)/g, replacement: '<u>$1</u>' },
+      { pattern: /RED\("(.*?)"\)/g, replacement: '<span style ="color:red">$1</span>' },
+      { pattern: /ORANGE\("(.*?)"\)/g, replacement: '<span style ="color:orange">$1</span>' },
+      { pattern: /GREEN\("(.*?)"\)/g, replacement: '<span style ="color:green">$1</span>' },
+      { pattern: /white\("(.*?)"\)/g, replacement: '<span style ="color:white">$1</span>' },
+        { pattern: /WHITE\("(.*?)"\)/g, replacement: '<span style ="color:white">$1</span>' },
+        { pattern: /BLACK\("(.*?)"\)/g, replacement: '<span style ="color:black">$1</span>' },
+        { pattern: /black\("(.*?)"\)/g, replacement: '<span style ="color:black">$1</span>' },
+        { pattern: /gray\("(.*?)"\)/g, replacement: '<span style ="color:gray">$1</span>' },
+        { pattern: /GRAY\("(.*?)"\)/g, replacement: '<span style ="color:gray">$1</span>' }
+
+        ];
+
+        document.querySelectorAll('.parse').forEach(function (tag) {
+            var inner = tag.innerHTML;
+            parserRules.forEach(function (rule) {
+                inner = inner.replace(rule.pattern, rule.replacement)
+            });
+            tag.innerHTML = inner;
+        });
+    </script>
+
+
+    <!-- jQuery -->
+    <script src="../MySiteTemplate1/vendor/jquery/jquery.min.js"></script>
+    <!-- Bootstrap Core JavaScript -->
+    <script src="../MySiteTemplate1/vendor/bootstrap/js/bootstrap.min.js"></script>
+    <!-- Plugin JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+    <script src="../MySiteTemplate1/vendor/scrollreveal/scrollreveal.min.js"></script>
+    <script src="../MySiteTemplate1/vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+    <!-- Theme JavaScript -->
+    <script src="../MySiteTemplate1/js/creative.min.js"></script>
+
+    <script>
+
+        $('.popupPanelCancel').on("click", function () {
+            $('.popupPanel').addClass('hidden')
+        });
+        //How do I maintain scroll position in MVC after post submit
+        //https://stackoverflow.com/questions/484463/how-do-i-maintain-scroll-position-in-mvc // or can using ajax to post a form
+        $(document).scroll(function () {
+            localStorage['page'] = document.URL;
+            localStorage['scrollTop'] = $(document).scrollTop();
+        });
+
+        $(document).ready(function () {
+            if (localStorage['page'] == document.URL) {
+                $(document).scrollTop(localStorage['scrollTop']);
+            }
+        });
+    </script>
+
+    <!--collappe menu bar when click outside menu bar -->
+    <script>
+        jQuery('body').bind('click', function (e) {
+            if (jQuery(e.target).closest('.navbar').length == 0) {
+                // click happened outside of .navbar, so hide
+                var opened = jQuery('.navbar-collapse').hasClass('collapse in');
+                if (opened === true) {
+                    jQuery('.navbar-collapse').collapse('hide');
+                }
+            }
+        });
+    </script>
+</body>
+</html>

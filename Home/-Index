@@ -1,0 +1,660 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="../img/myfavicon.ico" type="image/x-icon">
+    <link rel="icon" href="../img/myfavicon.ico" type="image/x-icon">
+    <title>posh nails and spa | Best nail salon in TAMPA, FL 33615</title>
+    <meta name="description" content="posh nails and spa is the ideal destination for nail services in the center of tampa fl 33615. we are dedicated to bring top line products mixed with expert technique to the nail salon industry and an affordable price.
+	  
+our specialties includes nails, pedicure, manicures, waxing, facials and eyelashes." />
+    <meta name="keywords" content="posh nails and spa,tampa,manicures,pedicures,facials,eyelashes,waxing" />
+    <meta property="og:url" content="http://poshnailsintampa.com/Home/Index" />
+    <meta property="og:type" content="Website" />
+    <meta property="og:title" content="posh nails and spa" />
+    <meta property="og:description" content="posh nails and spa is the ideal destination for nail services in the center of tampa fl 33615. we are dedicated to bring top line products mixed with expert technique to the nail salon industry and an affordable price.
+	  
+our specialties includes nails, pedicure, manicures, waxing, facials and eyelashes." />
+    <meta property="og:image" content="http://poshnailsintampa.com/Home/Index/MyPhotosGalary/" />
+
+
+    <!-- Dublin Core -->
+    <link rel="schema.DC" href="https://purl.org/dc/elements/1.1/">
+    <meta name="DC.title" content="Nail salon TAMPA, FL, Nail salon 33615, posh nails and spa">
+    <meta name="DC.identifier" content="poshnailsintampa.com">
+    <meta name="DC.description" content="Nail salon TAMPA, FL, Nail salon 33615, posh nails and spa">
+    <meta name="DC.subject" content="posh nails and spa is the ideal destination for nail services in the center of tampa fl 33615. we are dedicated to bring top line products mixed with expert technique to the nail salon industry and an affordable price.
+	  
+our specialties includes nails, pedicure, manicures, waxing, facials and eyelashes.">
+    <meta name="DC.language" scheme="UTF-8" content="en-us">
+    <meta itemprop="priceRange" name="priceRange" content="">
+
+    <!-- GEO meta -->
+    <meta name="geo.region" content="US-FL">
+    <meta name="geo.placename" content="TAMPA">
+    
+    <!-- canonical -->
+    <link rel="canonical" href="../index.html"> <!--Request.Url.Scheme + "://" + Request.Url.Host-->
+    
+    <!-- Bootstrap Core CSS -->
+    <link href="../MySiteTemplate1/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <!-- Custom Fonts -->
+    
+    <link href="../MySiteTemplate1/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+    <!-- Plugin CSS -->
+    <link href="../MySiteTemplate1/vendor/magnific-popup/magnific-popup.css" rel="stylesheet" />
+    <!-- Theme CSS -->
+    <link href="../MySiteTemplate1/css/creative.min.css" rel="stylesheet" />
+    
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+
+    
+
+
+    <style type="text/css">
+        .video-container {
+            position: relative;
+            padding-bottom: 56.25%;
+            padding-top: 30px;
+            height: 0;
+            overflow: hidden;
+        }
+
+            .video-container iframe,
+            .video-container object,
+            .video-container embed {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+            }
+
+        .map-responsive {
+            overflow: hidden;
+            padding-bottom: 56.25%;
+            position: relative;
+            height: 0;
+        }
+
+            .map-responsive iframe {
+                left: 0;
+                top: 0;
+                height: 100%;
+                width: 100%;
+                position: absolute;
+            }
+
+  @media only screen and (min-width: 700px) {
+    #bs-example-navbar-collapse-1 {padding-left:100px}
+
+}
+
+
+        
+@media only screen and (min-width: 700px) {
+    #slideset1 {height: 95%; position:relative}
+
+}
+       
+
+@media only screen and (max-width: 700px) {
+    #slideset1 {height:500px; position:relative}
+    
+    .slidecontent{
+        height: 500px;
+    }
+}
+
+#slideset1 > * {animation: 12s autoplay1 infinite linear;
+  position: absolute; top: 0; left: 0; opacity: 0.0}
+
+@keyframes autoplay1 {
+  0% {opacity: 0.0}
+  4% {opacity: 1.0}
+  33.33% {opacity: 1.0}
+  37.33% {opacity: 0.0}
+  100% {opacity: 0.0}
+}
+
+#slideset1 > *:nth-child(1) {animation-delay: 0s}
+#slideset1 > *:nth-child(2) {animation-delay: 4s}
+#slideset1 > *:nth-child(3) {animation-delay: 8s}
+
+    </style>
+
+
+    
+</head>
+<body style="" class="parse" id="page-top">
+    <!--https://developers.facebook.com/docs/plugins/page-plugin/-->
+    <div id="fb-root"></div>
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v9.0" nonce="SJH0Qf0C"></script>
+
+
+    <!-- H1 and Seo -->
+    <div id="fb-root" style="display: none"></div>
+    <h1 itemprop="name" style="display: none">Nail salon TAMPA, FL, Nail salon 33615, POSH NAILS AND SPA</h1>
+    <nav id="mainNav" class="navbar navbar-default navbar-fixed-top" style='background-color:white; height: 70px;border-bottom-width: thick; border-bottom-color:DarkTurquoise'>
+        <div class="container-fluid" style="height:70px;padding-top:0px; padding-left:0px; padding-right:0px">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header" style="margin:0px">
+                <button style="border-color:DarkTurquoise ; color:DarkTurquoise; margin-top:15px" type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars" style="color:DarkTurquoise"></i>
+                </button>
+                <a id="storename" class="navbar-brand page-scroll" href="Index#page-top" style="color:DarkTurquoise !important;margin-top:10px; margin-left:3px; text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;">POSH NAILS AND SPA</a>
+            </div>
+            
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div  class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" style='background-color:white;border-bottom: thick solid DarkTurquoise; width:inherit; height:70px;max-height:1200px'>
+                <ul class="nav navbar-nav navbar-right" style="text-align:center; margin-top:10px">
+                    <li >
+                        <a class="page-scroll" href="Index#about" style='color:DarkTurquoise'>About</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="Index#services" style='color:DarkTurquoise'>Services</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="Index#portfolio" style='color:DarkTurquoise'>Gallery</a>
+                    </li>
+
+                    
+
+                    <li>
+                        <a class="page-scroll" href="Index#contact" style='color:DarkTurquoise'>Contact</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="../Coupon/ShowCoupons" style='color:DarkTurquoise'>Specials</a>
+                    </li>
+                        <li>
+                            
+                            <a style='color:DarkTurquoise' class="" href="AppointmentLink">Online_Booking</a>
+                        </li>
+                                        
+                                        <li>
+                        <a class="page-scroll" href="../Customer/Subcribe" style='color:DarkTurquoise'>Subscribe</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+    <!--https://www.w3.org/Style/Examples/007/slideshow.en.html-->
+        <section id="slideset1" style="margin-top:70px">
+            <header class="slidecontent" style="background-image:url(../MyPhotosGalary/IMG_3436.JPG)">
+                <div class="header-content">
+                    <div class="header-content-inner">
+                        <h1 id="homeHeading" style="text-shadow: -1px 0 DarkTurquoise, 0 1px DarkTurquoise, 1px 0 DarkTurquoise, 0 -1px DarkTurquoise;">POSH NAILS AND SPA</h1>
+                        <hr style="border-color: DarkTurquoise">
+                        <p style='white-space:pre-line; font-size:large; font-weight:bold ;color:white; text-shadow: -1px 0 DarkTurquoise, 0 1px DarkTurquoise, 1px 0 DarkTurquoise, 0 -1px DarkTurquoise;'>Professional Nail Care for Ladies &amp; Gentlemen</p>
+                            <a href="AppointmentLink" class="btn btn-primary btn-xl page-scroll" style="background-color:DarkTurquoise">Book Now</a>
+                    </div>
+                </div>
+            </header>
+
+            <header class="slidecontent" style="background-image:url(../MyPhotosGalary/IMG_3298.JPG)">
+                <div class="header-content">
+                    <div class="header-content-inner">
+                        <h1 id="homeHeading" style="text-shadow: -1px 0 DarkTurquoise, 0 1px DarkTurquoise, 1px 0 DarkTurquoise, 0 -1px DarkTurquoise;">POSH NAILS AND SPA</h1>
+                        <hr style="border-color: DarkTurquoise">
+                        <p style='white-space:pre-line; font-size:large; font-weight:bold ;color:white; text-shadow: -1px 0 DarkTurquoise, 0 1px DarkTurquoise, 1px 0 DarkTurquoise, 0 -1px DarkTurquoise;'>Professional Nail Care for Ladies &amp; Gentlemen</p>
+                            <a href="AppointmentLink" class="btn btn-primary btn-xl page-scroll" style="background-color:DarkTurquoise">Book Now</a>
+                    </div>
+                </div>
+            </header>
+
+            <header class="slidecontent" style="background-image:url(../MyPhotosGalary/mainimg20.JPG)">
+                <div class="header-content">
+                    <div class="header-content-inner">
+                        <h1 id="homeHeading" style="text-shadow: -1px 0 DarkTurquoise, 0 1px DarkTurquoise, 1px 0 DarkTurquoise, 0 -1px DarkTurquoise;">POSH NAILS AND SPA</h1>
+                        <hr style="border-color: DarkTurquoise">
+                        <p style='white-space:pre-line; font-size:large; font-weight:bold ;color:white; text-shadow: -1px 0 DarkTurquoise, 0 1px DarkTurquoise, 1px 0 DarkTurquoise, 0 -1px DarkTurquoise;'>Professional Nail Care for Ladies &amp; Gentlemen</p>
+                            <a href="AppointmentLink" class="btn btn-primary btn-xl page-scroll" style="background-color:DarkTurquoise">Book Now</a>
+                    </div>
+                </div>
+            </header>
+
+        </section>
+    
+    
+
+    <section class="bg-primary" id="about" style="background-color:DarkTurquoise">
+        <div class="container" style="">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h2 class="section-heading">About Us</h2>
+                    <hr class="light" style="">
+                    <p class="text-faded" style="white-space:pre-line"> POSH NAILS AND SPA is the IDEAL destination for nail services in the center of TAMPA FL 33615. We are dedicated to bring TOP line products mixed with EXPERT technique to the nail salon industry and an AFFORDABLE price.
+	  
+Our specialties includes Nails, Pedicure, Manicures, Waxing, Facials and Eyelashes.</p>
+                    <a href="Index#services" class="page-scroll btn btn-default btn-xl sr-button" style="color:DarkTurquoise">Get Started!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="services">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">At Your Service</h2>
+                    <hr class="primary" style="border-color: DarkTurquoise">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-6 text-center">
+                    <div class="service-box">
+                        <a href="../ServiceAndPrice/ShowService#MANICURES"><img src="../MyPhotosGalary/IMG_9284.JPG" class="img-circle img-thumbnail text-primary sr-icons" alt="MANICURES" style="width:130px; height:130px; border-color:DarkTurquoise" /></a>
+                        <h3 style="margin-top:5px; margin-bottom:5px">MANICURES</h3>
+                        <p class="text-muted" style="font-size:small; white-space:pre-line"></p>
+                    </div>
+                </div>
+                <div class="col-xs-6 text-center">
+                    <div class="service-box">
+                        <a href="../ServiceAndPrice/ShowService#PEDICURES"><img src="../MyPhotosGalary/IMG_9407.JPG" class="img-circle img-thumbnail text-primary sr-icons" alt="PEDICURES" style="width:130px; height:130px; border-color:DarkTurquoise" /></a>
+                        <h3 style="margin-top:5px; margin-bottom:5px">PEDICURES</h3>
+                        <p class="text-muted" style="font-size:small; white-space:pre-line">(Additional $15.00 for GEL POLISH with any pedicures &amp; $20.00 for French)</p>
+                    </div>
+                </div>
+                            <div class="clearfix"></div> <!--resolve differrent height of col https://www.bootply.com/89910-->
+                <div class="col-xs-6 text-center">
+                    <div class="service-box">
+                        <a href="../ServiceAndPrice/ShowService#WAXING"><img src="../MyPhotosGalary/waxing1.jpg" class="img-circle img-thumbnail text-primary sr-icons" alt="WAXING" style="width:130px; height:130px; border-color:DarkTurquoise" /></a>
+                        <h3 style="margin-top:5px; margin-bottom:5px">WAXING</h3>
+                        <p class="text-muted" style="font-size:small; white-space:pre-line"></p>
+                    </div>
+                </div>
+                <div class="col-xs-6 text-center">
+                    <div class="service-box">
+                        <a href="../ServiceAndPrice/ShowService#EYELASHES"><img src="../MyPhotosGalary/eyelash.jpg" class="img-circle img-thumbnail text-primary sr-icons" alt="EYELASHES" style="width:130px; height:130px; border-color:DarkTurquoise" /></a>
+                        <h3 style="margin-top:5px; margin-bottom:5px">EYELASHES</h3>
+                        <p class="text-muted" style="font-size:small; white-space:pre-line"></p>
+                    </div>
+                </div>
+                            <div class="clearfix"></div> <!--resolve differrent height of col https://www.bootply.com/89910-->
+                <div class="col-xs-6 text-center">
+                    <div class="service-box">
+                        <a href="../ServiceAndPrice/ShowService#FACIALS"><img src="../MyPhotosGalary/IMG_7646.JPG" class="img-circle img-thumbnail text-primary sr-icons" alt="FACIALS" style="width:130px; height:130px; border-color:DarkTurquoise" /></a>
+                        <h3 style="margin-top:5px; margin-bottom:5px">FACIALS</h3>
+                        <p class="text-muted" style="font-size:small; white-space:pre-line"></p>
+                    </div>
+                </div>
+        </div>
+            <div class="row">
+                <div class="col-xs-12" style="text-align:center"> <a href="../ServiceAndPrice/ShowService" class="page-scroll btn btn-default btn-xl sr-button" style="background-color:DarkTurquoise; color:white; margin-top:50px">Services Details &raquo;</a></div>
+            </div>
+      </div>
+    </section>
+
+    <section class="no-padding" id="portfolio">
+        <div class="container-fluid">
+            <div class="row no-gutter popup-gallery">
+                <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                    <a href="../MyPhotosGalary/IMG_9406.JPG" class="portfolio-box">
+                        <img src="../MyPhotosGalary/IMG_9406.JPG" class="img-responsive" alt='POSH NAILS AND SPA'>
+                        
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                    <a href="../MyPhotosGalary/manicure4.jpg" class="portfolio-box">
+                        <img src="../MyPhotosGalary/manicure4.jpg" class="img-responsive" alt='POSH NAILS AND SPA'>
+                        
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                    <a href="../MyPhotosGalary/IMG_7645.JPG" class="portfolio-box">
+                        <img src="../MyPhotosGalary/IMG_7645.JPG" class="img-responsive" alt='POSH NAILS AND SPA'>
+                        
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                    <a href="../MyPhotosGalary/IMG_2462.JPG" class="portfolio-box">
+                        <img src="../MyPhotosGalary/IMG_2462.JPG" class="img-responsive" alt='POSH NAILS AND SPA'>
+                        
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                    <a href="../MyPhotosGalary/IMG_1024.JPG" class="portfolio-box">
+                        <img src="../MyPhotosGalary/IMG_1024.JPG" class="img-responsive" alt='POSH NAILS AND SPA'>
+                        
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                    <a href="../MyPhotosGalary/IMG_4742.JPG" class="portfolio-box">
+                        <img src="../MyPhotosGalary/IMG_4742.JPG" class="img-responsive" alt='POSH NAILS AND SPA'>
+                        
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                    <a href="../MyPhotosGalary/IMG_7646.JPG" class="portfolio-box">
+                        <img src="../MyPhotosGalary/IMG_7646.JPG" class="img-responsive" alt='POSH NAILS AND SPA'>
+                        
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                    <a href="../MyPhotosGalary/waxing1.jpg" class="portfolio-box">
+                        <img src="../MyPhotosGalary/waxing1.jpg" class="img-responsive" alt='POSH NAILS AND SPA'>
+                        
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                    <a href="../MyPhotosGalary/IMG_9292.JPG" class="portfolio-box">
+                        <img src="../MyPhotosGalary/IMG_9292.JPG" class="img-responsive" alt='POSH NAILS AND SPA'>
+                        
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                    <a href="../MyPhotosGalary/IMG_4181.JPG" class="portfolio-box">
+                        <img src="../MyPhotosGalary/IMG_4181.JPG" class="img-responsive" alt='POSH NAILS AND SPA'>
+                        
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                    <a href="../MyPhotosGalary/manicure2.jpg" class="portfolio-box">
+                        <img src="../MyPhotosGalary/manicure2.jpg" class="img-responsive" alt='POSH NAILS AND SPA'>
+                        
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                    <a href="../MyPhotosGalary/IMG_9286.JPG" class="portfolio-box">
+                        <img src="../MyPhotosGalary/IMG_9286.JPG" class="img-responsive" alt='POSH NAILS AND SPA'>
+                        
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <aside class="bg-dark" style="background-color:DarkTurquoise">
+        <div class="container text-center">
+            <div class="call-to-action">
+                <h2>Our Photos Gallery</h2>
+                <a href="Gallery" style="color:DarkTurquoise" class="btn btn-default btn-xl sr-button">Show More...</a>
+            </div>
+        </div>
+    </aside>
+
+    
+    
+    <section id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h2 class="section-heading">Let's Get In Touch!</h2>
+                    <hr class="primary" style="border-color: DarkTurquoise">
+                </div>
+                <div class="col-lg-4 text-center">
+                    <i class="fa fa-phone fa-3x sr-contact"></i>
+                    <p ><a href='tel:(813) 249-4715' style="color:DarkTurquoise" >(813) 249-4715</a></p>
+                </div>
+
+                    <div style="" class="col-lg-4 text-center">
+                        <i class="fa fa-envelope-o fa-3x sr-contact"></i>
+                        <p><a href="../cdn-cgi/l/email-protection#d5f5919c9b9d9d809a9b92e4ede0839b959298949c99fb969a98" style="color:DarkTurquoise !important"><span class="__cf_email__" data-cfemail="591d101711110c16171e68616c0f17191e14181015771a1614">[email&#160;protected]</span></a></p>
+                    </div>
+                <div class="col-lg-4 text-center">
+                    <i class="fa fa-location-arrow fa-3x sr-contact"></i>
+                    <br/>
+                    <b>POSH NAILS AND SPA</b>
+                    <p><a href='https://goo.gl/maps/Cmp7JKbFDXcH1WUb8' style="color:DarkTurquoise">7737 W HILLSBOROUGH AVE, TAMPA, FL 33615 </a><a class="btn btn-default btn-xs" href="https://goo.gl/maps/Cmp7JKbFDXcH1WUb8" style="color:black;font-style:italic; background-color:lightgray">Get Directions</a></p>
+                </div>
+            </div>
+            
+        </div>
+        
+    </section>
+
+    <section class="" style="border-top:solid thin; border-top-color:DarkTurquoise"  id="openHour">
+        <div class="container" style="">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h2 class="section-heading">Business Hours</h2>
+                    <hr class="primary" style="border-color: DarkTurquoise">
+                </div>
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <p style='color: DarkTurquoise' >Mon.Wed.Thu.Fri.Sat.Tue: 9:00 am-7:00 pm | Sun: 11:00 am-5:00 pm </p>
+                </div>
+                
+            </div>
+            
+            <div class="row">
+              
+                    <div class="col-xs-12" style="text-align:center"> <a href="AppointmentLink" class="page-scroll btn btn-default btn-xl sr-button" style="background-color:DarkTurquoise; color:white; margin-top:50px">BOOK NOW</a></div>
+
+            </div>
+            <div class="row">
+
+
+            </div>
+        </div>
+
+    </section>
+
+
+
+
+
+    <!-- https://developers.facebook.com/docs/plugins/page-plugin/ -->
+    
+
+
+
+
+
+
+    <!--
+        uncomment this section to display google reviews. must get widget from elfsight.com
+        -->
+    <!--
+    <section class="bg-dark" style="background-color:white; padding:0px" id="map">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center" style="padding:0px">
+                    
+                    <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+                    <div class="elfsight-app-e7a35593-9d58-4dcf-afd7-57483a713e3f"></div>
+                </div>
+                    
+                </div>
+
+
+           
+        </div>
+
+    </section>
+        -->
+ 
+
+    <section style="padding:2px; text-align:center;border-top:solid thin;background-color:gray"><a href="../Dashboard" style="color:white; font-size:small">This website is powered by www.nailsolution.us</a></section>
+
+    <div style="position:fixed; right:10px; bottom:40px; width:250px;display:inline-block">
+        
+            <a style="background:rgba(230,230,230, 0.8); float:left;width:50px;border-radius: 50%;" href='tel:(813) 249-4715'><img src="../img/call&#32;me&#32;small.gif" style="width:50px;border-radius: 50%; border-style:solid; border-color:DarkTurquoise; border-width:thin "></a>
+            <a style="background:rgba(230,230,230, 0.8); float:left;width:50px;border-radius: 50%; margin-left:10px" href='https://goo.gl/maps/Cmp7JKbFDXcH1WUb8'><img src="../img/directionTransparent.png" style="width:50px;border-radius: 50%; border-style:solid; border-color:DarkTurquoise; border-width:thin "></a>
+
+
+            <a style="background:rgba(230,230,230, 0.8); float:left;width:50px;border-radius: 50%; margin-left:10px" href='AppointmentLink'><img src="../img/bookingIcon.png" style="width:50px;border-radius: 50%; border-style:solid; border-color:DarkTurquoise; border-width:thin "></a>
+
+
+    </div>
+
+    <!--social media-->
+    <div style="position:fixed; right:0px; top:80px; background:rgba(230,230,230, 0.2); width:30px;" >
+            <a itemprop="sameAs" href="https://www.yelp.com/biz/posh-nails-and-spa-tampa" class="fa fa-yelp fa-2x" style="color:red; font-size:xx-large"></a>
+        
+
+            <a itemprop="sameAs" href="https://goo.gl/maps/Cmp7JKbFDXcH1WUb8" class="fa fa-google-plus-official fa-2x" style="color:forestgreen; font-size:xx-large"></a>
+                    <a itemprop="sameAs" href="https://www.facebook.com/poshnailstampa" class="fa fa-facebook-official fa-2x" style="color:dodgerblue; font-size:xx-large"></a>
+                    </div>
+        <!--announcement-->
+        <div class="panel panel-default popupPanel" style="width: 350px;position: fixed;margin-left: -175px;top:155px;left: 50%;background-color:DarkTurquoise; color:white;border-color:DarkTurquoise; border-style:groove">
+
+            <!--<div class="panel-heading" style="">Announcement!<span class="pull-right btn btn-danger btn-xs popupPanelCancel">&times;</span></div>-->
+            <div class="panel-heading" style="color:DarkTurquoise">
+                Important!
+                <form class="delete pull-right" action="https://poshnailsintampa.com/Home/CloseAnnouncement" method="post" style="">
+                    <div style="float:left">
+                        <input type="submit" value="x" style="" class="pull-right btn btn-danger btn-sm popupPanelCancel"/>
+
+                    </div>
+
+                </form>
+            </div>
+            <div class="panel-body" style="padding:5px">
+                    <div style="color:white;margin-bottom:5px; white-space:pre-line"  class="popupDetail"> **WE OPEN 7 DAYS!!</div>
+
+                    <img src='../MyPhotosGalary/CouponsAndAdsIMG/IMG_2580.JPG' class="img-responsive center-block"/>
+
+            </div>
+        </div>
+
+
+
+
+    
+
+    <script data-cfasync="false" src="../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+        //bold and italic bold("bold this text") italics("italic this text") red("make this text red")
+        //https://stackoverflow.com/questions/46019042/how-to-replace-text-containing-string-with-a-html-tag
+        var parserRules = [
+      { pattern: /bold\("(.*?)"\)/g, replacement: '<b>$1</b>' },
+      { pattern: /italics\("(.*?)"\)/g, replacement: '<i>$1</i>' },
+      { pattern: /underline\("(.*?)"\)/g, replacement: '<u>$1</u>' },
+      { pattern: /red\("(.*?)"\)/g, replacement: '<span style ="color:red">$1</span>' },
+      { pattern: /orange\("(.*?)"\)/g, replacement: '<span style ="color:orange">$1</span>' },
+      { pattern: /green\("(.*?)"\)/g, replacement: '<span style ="color:green">$1</span>' },
+      { pattern: /BOLD\("(.*?)"\)/g, replacement: '<b>$1</b>' },
+      { pattern: /ITALICS\("(.*?)"\)/g, replacement: '<i>$1</i>' },
+      { pattern: /UNDERLINE\("(.*?)"\)/g, replacement: '<u>$1</u>' },
+      { pattern: /RED\("(.*?)"\)/g, replacement: '<span style ="color:red">$1</span>' },
+      { pattern: /ORANGE\("(.*?)"\)/g, replacement: '<span style ="color:orange">$1</span>' },
+      { pattern: /GREEN\("(.*?)"\)/g, replacement: '<span style ="color:green">$1</span>' },
+      { pattern: /white\("(.*?)"\)/g, replacement: '<span style ="color:white">$1</span>' },
+        { pattern: /WHITE\("(.*?)"\)/g, replacement: '<span style ="color:white">$1</span>' },
+        { pattern: /BLACK\("(.*?)"\)/g, replacement: '<span style ="color:black">$1</span>' },
+        { pattern: /black\("(.*?)"\)/g, replacement: '<span style ="color:black">$1</span>' },
+        { pattern: /gray\("(.*?)"\)/g, replacement: '<span style ="color:gray">$1</span>' },
+        { pattern: /GRAY\("(.*?)"\)/g, replacement: '<span style ="color:gray">$1</span>' }
+
+        ];
+
+        document.querySelectorAll('.parse').forEach(function (tag) {
+            var inner = tag.innerHTML;
+            parserRules.forEach(function (rule) {
+                inner = inner.replace(rule.pattern, rule.replacement)
+            });
+            tag.innerHTML = inner;
+        });
+
+        
+    </script>
+
+
+
+    <!-- jQuery -->
+    <script src="../MySiteTemplate1/vendor/jquery/jquery.min.js"></script>
+    <!-- Bootstrap Core JavaScript -->
+    <script src="../MySiteTemplate1/vendor/bootstrap/js/bootstrap.min.js"></script>
+    <!-- Plugin JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+    <script src="../MySiteTemplate1/vendor/scrollreveal/scrollreveal.min.js"></script>
+    <script src="../MySiteTemplate1/vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+    <!-- Theme JavaScript -->
+    <script src="../MySiteTemplate1/js/creative.min.js"></script>
+
+    <script>
+
+        $('.popupPanelCancel').on("click", function () {
+            $('.popupPanel').addClass('hidden')
+        });
+        //How do I maintain scroll position in MVC after post submit
+        //https://stackoverflow.com/questions/484463/how-do-i-maintain-scroll-position-in-mvc // or can using ajax to post a form
+        $(document).scroll(function () {
+            localStorage['page'] = document.URL;
+            localStorage['scrollTop'] = $(document).scrollTop();
+        });
+
+        $(document).ready(function () {
+            if (localStorage['page'] == document.URL) {
+                $(document).scrollTop(localStorage['scrollTop']);
+            }
+        });
+
+        //scroll to the top
+        $(document).ready(function () {
+            //Check to see if the window is top if not then display button
+            $(window).scroll(function () {
+                if ($(this).scrollTop() > 100) {
+                    $('.scrollTop').fadeIn();
+                } else {
+                    $('.scrollTop').fadeOut();
+                }
+            });
+            //Click event to scroll to top
+            $('.scrollTop').click(function () {
+                $('html, body').animate({ scrollTop: 0 }, 800);
+                return false;
+            });
+        });
+
+    </script>
+
+
+    <!--collappe menu bar when click outside menu bar -->
+    <script>
+        jQuery('body').bind('click', function (e) {
+            if (jQuery(e.target).closest('.navbar').length == 0) {
+                // click happened outside of .navbar, so hide
+                var opened = jQuery('.navbar-collapse').hasClass('collapse in');
+                if (opened === true) {
+                    jQuery('.navbar-collapse').collapse('hide');
+                }
+            }
+        });
+    </script>
+
+    <!--this is for snow and autum affect https://thomas.vanhoutte.be/miniblog/snow-effect/ -->
+    <!--UNCOMMENT THIS FOR SNOW OR AUTUM AFFECT-->
+    <!--enable snow on mobile. should turn off or true if it slow down your site-->
+    
+   <!--
+       
+   
+    <script src="//cdnjs.cloudflare.com/ajax/libs/Snowstorm/20131208/snowstorm-min.js"></script>
+    
+    <script>snowStorm.excludeMobile = false;</script>
+    <script>
+snowStorm.snowColor = '#ffffff'; //give the snowflakes another colour
+snowStorm.flakesMaxActive = 30; //the maximum number of active snow flakes on the screen, lowering this may increase performance
+snowStorm.followMouse = true; //the snow will fall in a certain direction based on the position of your mouse
+snowStorm.snowCharacter = '🍁'; //change the flake to a specific character 🍁  l2 🍂 l3 🍃 snow ❄️ snow2 ⛄️
+snowStorm.snowStick = true; //if true, the snow will stick to the bottom of the screen
+    </script>
+    <script>
+snowStorm.animationInterval = 30; //milliseconds per frame, the higher the less CPU load
+snowStorm.flakesMaxActive = 7; //maximum number of active snow flakes, the lower the less CPU/GPU is needed to draw them
+snowStorm.freezeOnBlur = true; //recommended: stops the snow effect when the user switches to another tab or window
+snowStorm.usePositionFixed = true; //if the user scrolls, the snow is not affected by the window scroll. Disable to prevent extra CPU load
+    </script>
+       
+       -->
+ 
+    
+    
+</body>
+</html>

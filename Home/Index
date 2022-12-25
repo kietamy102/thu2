@@ -1,0 +1,715 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="/img/myfavicon.ico" type="image/x-icon">
+    <link rel="icon" href="/img/myfavicon.ico" type="image/x-icon">
+    <title>top pro nails | Best nail salon in COVINA, CA 91722</title>
+    <meta name="description" content="we love what we do every day
+top pro nails is the premier destination for nail services in the heart of covina, california, zip code 91722. getting your nails done should be an indulgence and top pro nails understands this. our goal is to pamper all the ladies with unique manicures and pedicures that will leave your nails looking elegant and makes you feel rejuvenated.
+from the minute you step in our salon to the minute you step out, you&#39;ll be provided with excellent service and comfort in a relaxing environment. since our opening, we&#39;ve become a perfect destination for those seeking peace and charm." />
+    <meta name="keywords" content="top pro nails,covina,manicure,pedicure,nail enhancements,additional services,waxing,eyelash extensions and lash lift" />
+    <meta property="og:url" content="http://www.toppronails.com/Home/Index" />
+    <meta property="og:type" content="Website" />
+    <meta property="og:title" content="top pro nails" />
+    <meta property="og:description" content="we love what we do every day
+top pro nails is the premier destination for nail services in the heart of covina, california, zip code 91722. getting your nails done should be an indulgence and top pro nails understands this. our goal is to pamper all the ladies with unique manicures and pedicures that will leave your nails looking elegant and makes you feel rejuvenated.
+from the minute you step in our salon to the minute you step out, you&#39;ll be provided with excellent service and comfort in a relaxing environment. since our opening, we&#39;ve become a perfect destination for those seeking peace and charm." />
+    <meta property="og:image" content="http://www.toppronails.com/Home/Index/MyPhotosGalary/" />
+
+
+    <!-- Dublin Core -->
+    <link rel="schema.DC" href="https://purl.org/dc/elements/1.1/">
+    <meta name="DC.title" content="Nail salon COVINA, CA, Nail salon 91722, top pro nails">
+    <meta name="DC.identifier" content="www.toppronails.com">
+    <meta name="DC.description" content="Nail salon COVINA, CA, Nail salon 91722, top pro nails">
+    <meta name="DC.subject" content="we love what we do every day
+top pro nails is the premier destination for nail services in the heart of covina, california, zip code 91722. getting your nails done should be an indulgence and top pro nails understands this. our goal is to pamper all the ladies with unique manicures and pedicures that will leave your nails looking elegant and makes you feel rejuvenated.
+from the minute you step in our salon to the minute you step out, you&#39;ll be provided with excellent service and comfort in a relaxing environment. since our opening, we&#39;ve become a perfect destination for those seeking peace and charm.">
+    <meta name="DC.language" scheme="UTF-8" content="en-us">
+    <meta itemprop="priceRange" name="priceRange" content="">
+
+    <!-- GEO meta -->
+    <meta name="geo.region" content="US-CA">
+    <meta name="geo.placename" content="COVINA">
+    
+    <!-- canonical -->
+    <link rel="canonical" href="https://.toppronails.com"> <!--Request.Url.Scheme + "://" + Request.Url.Host-->
+    
+    <!-- Bootstrap Core CSS -->
+    <link href="/MySiteTemplate1/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <!-- Custom Fonts -->
+    
+    <link href="/MySiteTemplate1/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+    <!-- Plugin CSS -->
+    <link href="/MySiteTemplate1/vendor/magnific-popup/magnific-popup.css" rel="stylesheet" />
+    <!-- Theme CSS -->
+    <link href="/MySiteTemplate1/css/creative.min.css" rel="stylesheet" />
+    
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+
+    
+
+
+    <style type="text/css">
+        .video-container {
+            position: relative;
+            padding-bottom: 56.25%;
+            padding-top: 30px;
+            height: 0;
+            overflow: hidden;
+        }
+
+            .video-container iframe,
+            .video-container object,
+            .video-container embed {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+            }
+
+        .map-responsive {
+            overflow: hidden;
+            padding-bottom: 56.25%;
+            position: relative;
+            height: 0;
+        }
+
+            .map-responsive iframe {
+                left: 0;
+                top: 0;
+                height: 100%;
+                width: 100%;
+                position: absolute;
+            }
+
+  @media only screen and (min-width: 700px) {
+    #bs-example-navbar-collapse-1 {padding-left:100px}
+
+}
+
+
+        
+@media only screen and (min-width: 700px) {
+    #slideset1 {height: 95%; position:relative}
+
+}
+       
+
+@media only screen and (max-width: 700px) {
+    #slideset1 {height:500px; position:relative}
+    
+    .slidecontent{
+        height: 500px;
+    }
+}
+
+#slideset1 > * {animation: 12s autoplay1 infinite linear;
+  position: absolute; top: 0; left: 0; opacity: 0.0}
+
+@keyframes autoplay1 {
+  0% {opacity: 0.0}
+  4% {opacity: 1.0}
+  33.33% {opacity: 1.0}
+  37.33% {opacity: 0.0}
+  100% {opacity: 0.0}
+}
+
+#slideset1 > *:nth-child(1) {animation-delay: 0s}
+#slideset1 > *:nth-child(2) {animation-delay: 4s}
+#slideset1 > *:nth-child(3) {animation-delay: 8s}
+
+    </style>
+
+
+    
+</head>
+<body style='font-family:Arial' class="parse" id="page-top">
+    <!--https://developers.facebook.com/docs/plugins/page-plugin/-->
+    <div id="fb-root"></div>
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v9.0" nonce="SJH0Qf0C"></script>
+
+
+    <!-- H1 and Seo -->
+    <div id="fb-root" style="display: none"></div>
+    <h1 itemprop="name" style="display: none">Nail salon COVINA, CA, Nail salon 91722, bold(&quot;TOP PRO NAILS&quot;)</h1>
+    <nav id="mainNav" class="navbar navbar-default navbar-fixed-top" style='background-color:white; height: 70px;border-bottom-width: thick; border-bottom-color:Violet'>
+        <div class="container-fluid" style="height:70px;padding-top:0px; padding-left:0px; padding-right:0px">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header" style="margin:0px">
+                <button style="border-color:Violet ; color:Violet; margin-top:15px" type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars" style="color:Violet"></i>
+                </button>
+                <a id="storename" class="navbar-brand page-scroll" href="#page-top" style="color:Violet !important;margin-top:10px; margin-left:3px; text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white; font-family:Arial">BOLD(&quot;TOP PRO NAILS&quot;)</a>
+            </div>
+            
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div  class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" style='background-color:white;border-bottom: thick solid Violet; width:inherit; height:70px;max-height:1200px'>
+                <ul class="nav navbar-nav navbar-right" style="text-align:center; margin-top:10px">
+                    <li >
+                        <a class="page-scroll" href="#about" style='color:Violet'>About</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#services" style='color:Violet'>Services</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#portfolio" style='color:Violet'>Gallery</a>
+                    </li>
+
+                    
+
+                    <li>
+                        <a class="page-scroll" href="#contact" style='color:Violet'>Contact</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="/Coupon/ShowCoupons" style='color:Violet'>Specials</a>
+                    </li>
+                        <li>
+                            
+                            <a style='color:Violet' class="" href="/Home/AppointmentLink">Online_Booking</a>
+                        </li>
+                                        
+                                        <li>
+                        <a class="page-scroll" href="/Customer/Subcribe" style='color:Violet'>Subscribe</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+
+
+
+    <!-- /CUSTOM SLIDE. MUST SET MEDIA LIKE THIS IN CSS. and hidden existing sliders
+        @media only screen and (min-width: 700px) {
+        #slideset1 {height: 75%; position:relative}
+    }
+    @media only screen and (max-width: 850px) {
+        #slideset1 {height:25%; position:relative}
+
+        .slidecontent{
+            //height: 500px;
+        }
+    }
+       
+    <section id="slideset1" style='margin-top:70px; display: inline-block;  width: 100%; overflow: hidden; background-color:Violet'>
+        <img class="slidecontent" src="/MyPhotosGalary/VIOLA_MAIN_ING.jpg" style="width: 100%; height: auto">
+        <img class="slidecontent" src="/MyPhotosGalary/MAINIMGNEWFINAL4.jpg" style="width: 100%; height: auto">
+        <img class="slidecontent" src="/MyPhotosGalary/mainImg10.jpg" style="width: 100%; height: auto">
+        <h1 class="" id="homeHeading" style="color:transparent">BOLD(&quot;TOP PRO NAILS&quot;)</h1>
+    </section>
+         -->
+
+
+    <!--https://www.w3.org/Style/Examples/007/slideshow.en.html-->
+        <section id="slideset1" style="margin-top:70px">
+            <header class="slidecontent" style="background-image:url(/MyPhotosGalary/VIOLA_MAIN_ING.jpg)">
+                <div class="header-content">
+                    <div class="header-content-inner">
+                        <h1 id="homeHeading" style="text-shadow: -1px 0 Violet, 0 1px Violet, 1px 0 Violet, 0 -1px Violet; font-family:Arial">BOLD(&quot;TOP PRO NAILS&quot;)</h1>
+                        <hr style="border-color: Violet">
+                        <p style='white-space:pre-line; font-size:large; font-weight:bold ;color:white; text-shadow: -1px 0 Violet, 0 1px Violet, 1px 0 Violet, 0 -1px Violet;'>Professional Nail Care for Ladies &amp; Gentlemen</p>
+                            <a href="/Home/AppointmentLink" class="btn btn-primary btn-xl page-scroll" style="background-color:Violet">Book Now</a>
+                    </div>
+                </div>
+            </header>
+
+            <header class="slidecontent" style="background-image:url(/MyPhotosGalary/MAINIMGNEWFINAL4.jpg)">
+                <div class="header-content">
+                    <div class="header-content-inner">
+                        <h1 id="homeHeading" style="text-shadow: -1px 0 Violet, 0 1px Violet, 1px 0 Violet, 0 -1px Violet; font-family:Arial">BOLD(&quot;TOP PRO NAILS&quot;)</h1>
+                        <hr style="border-color: Violet">
+                        <p style='white-space:pre-line; font-size:large; font-weight:bold ;color:white; text-shadow: -1px 0 Violet, 0 1px Violet, 1px 0 Violet, 0 -1px Violet;'>Professional Nail Care for Ladies &amp; Gentlemen</p>
+                            <a href="/Home/AppointmentLink" class="btn btn-primary btn-xl page-scroll" style="background-color:Violet">Book Now</a>
+                    </div>
+                </div>
+            </header>
+
+            <header class="slidecontent" style="background-image:url(/MyPhotosGalary/mainImg10.jpg)">
+                <div class="header-content">
+                    <div class="header-content-inner">
+                        <h1 id="homeHeading" style="text-shadow: -1px 0 Violet, 0 1px Violet, 1px 0 Violet, 0 -1px Violet; font-family:Arial">BOLD(&quot;TOP PRO NAILS&quot;)</h1>
+                        <hr style="border-color: Violet">
+                        <p style='white-space:pre-line; font-size:large; font-weight:bold ;color:white; text-shadow: -1px 0 Violet, 0 1px Violet, 1px 0 Violet, 0 -1px Violet;'>Professional Nail Care for Ladies &amp; Gentlemen</p>
+                            <a href="/Home/AppointmentLink" class="btn btn-primary btn-xl page-scroll" style="background-color:Violet">Book Now</a>
+                    </div>
+                </div>
+            </header>
+
+        </section>
+    
+    
+
+    <section class="bg-primary" id="about" style="background-color:Violet">
+        <div class="container" style="">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h2 class="section-heading">About Us</h2>
+                    <hr class="light" style="">
+                    <p class="text-faded" style="white-space:pre-line"> bold(&quot;black(&quot;We love what we do every day&quot;)&quot;)
+Top Pro Nails is the premier destination for nail services in the heart of Covina, California, zip code 91722. Getting your nails done should be an indulgence and Top Pro Nails understands this. Our goal is to pamper all the ladies with unique manicures and pedicures that will leave your nails looking elegant and makes you feel rejuvenated.
+From the minute you step in our salon to the minute you step out, you&#39;ll be provided with excellent service and comfort in a relaxing environment. Since our opening, we&#39;ve become a perfect destination for those seeking peace and charm.</p>
+                    <a href="#services" class="page-scroll btn btn-default btn-xl sr-button" style="color:Violet">Get Started!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="services">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">At Your Service</h2>
+                    <hr class="primary" style="border-color: Violet">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-6 text-center">
+                    <div class="service-box">
+                        <a href="/ServiceAndPrice/ShowService#manicure"><img src="/MyPhotosGalary/IMG_9284.JPG" class="img-circle img-thumbnail text-primary sr-icons" alt="manicure" style="width:130px; height:130px; border-color:Violet" /></a>
+                        <h3 style="margin-top:5px; margin-bottom:5px">MANICURE</h3>
+                        <p class="text-muted" style="font-size:small; white-space:pre-line"></p>
+                    </div>
+                </div>
+                <div class="col-xs-6 text-center">
+                    <div class="service-box">
+                        <a href="/ServiceAndPrice/ShowService#pedicure"><img src="/MyPhotosGalary/IMG_9407.JPG" class="img-circle img-thumbnail text-primary sr-icons" alt="pedicure" style="width:130px; height:130px; border-color:Violet" /></a>
+                        <h3 style="margin-top:5px; margin-bottom:5px">PEDICURE</h3>
+                        <p class="text-muted" style="font-size:small; white-space:pre-line"></p>
+                    </div>
+                </div>
+                            <div class="clearfix"></div> <!--resolve differrent height of col https://www.bootply.com/89910-->
+                <div class="col-xs-6 text-center">
+                    <div class="service-box">
+                        <a href="/ServiceAndPrice/ShowService#nail enhancements"><img src="/MyPhotosGalary/manicure4.jpg" class="img-circle img-thumbnail text-primary sr-icons" alt="nail enhancements" style="width:130px; height:130px; border-color:Violet" /></a>
+                        <h3 style="margin-top:5px; margin-bottom:5px">NAIL ENHANCEMENTS</h3>
+                        <p class="text-muted" style="font-size:small; white-space:pre-line"></p>
+                    </div>
+                </div>
+                <div class="col-xs-6 text-center">
+                    <div class="service-box">
+                        <a href="/ServiceAndPrice/ShowService#Eyelash Extensions and lash lift"><img src="/MyPhotosGalary/eyelash.jpg" class="img-circle img-thumbnail text-primary sr-icons" alt="Eyelash Extensions and lash lift" style="width:130px; height:130px; border-color:Violet" /></a>
+                        <h3 style="margin-top:5px; margin-bottom:5px">EYELASH EXTENSIONS AND LASH LIFT</h3>
+                        <p class="text-muted" style="font-size:small; white-space:pre-line"></p>
+                    </div>
+                </div>
+                            <div class="clearfix"></div> <!--resolve differrent height of col https://www.bootply.com/89910-->
+                <div class="col-xs-6 text-center">
+                    <div class="service-box">
+                        <a href="/ServiceAndPrice/ShowService#waxing"><img src="/MyPhotosGalary/waxing1.jpg" class="img-circle img-thumbnail text-primary sr-icons" alt="waxing" style="width:130px; height:130px; border-color:Violet" /></a>
+                        <h3 style="margin-top:5px; margin-bottom:5px">WAXING</h3>
+                        <p class="text-muted" style="font-size:small; white-space:pre-line"></p>
+                    </div>
+                </div>
+                <div class="col-xs-6 text-center">
+                    <div class="service-box">
+                        <a href="/ServiceAndPrice/ShowService#additional services"><img src="/MyPhotosGalary/manicure2.jpg" class="img-circle img-thumbnail text-primary sr-icons" alt="additional services" style="width:130px; height:130px; border-color:Violet" /></a>
+                        <h3 style="margin-top:5px; margin-bottom:5px">ADDITIONAL SERVICES</h3>
+                        <p class="text-muted" style="font-size:small; white-space:pre-line"></p>
+                    </div>
+                </div>
+                            <div class="clearfix"></div> <!--resolve differrent height of col https://www.bootply.com/89910-->
+        </div>
+            <div class="row">
+                <div class="col-xs-12" style="text-align:center"> <a href="/ServiceAndPrice/ShowService" class="page-scroll btn btn-default btn-xl sr-button" style="background-color:Violet; color:white; margin-top:50px">Services Details &raquo;</a></div>
+            </div>
+      </div>
+    </section>
+
+    <section class="no-padding" id="portfolio">
+        <div class="container-fluid">
+            <div class="row no-gutter popup-gallery">
+                <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                    <a href="/MyPhotosGalary/IMG_9285.JPG" class="portfolio-box">
+                        <img src="/MyPhotosGalary/IMG_9285.JPG" class="img-responsive" alt='bold(&quot;TOP PRO NAILS&quot;)'>
+                        
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                    <a href="/MyPhotosGalary/IMG_9407.JPG" class="portfolio-box">
+                        <img src="/MyPhotosGalary/IMG_9407.JPG" class="img-responsive" alt='bold(&quot;TOP PRO NAILS&quot;)'>
+                        
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                    <a href="/MyPhotosGalary/IMG_4743.JPG" class="portfolio-box">
+                        <img src="/MyPhotosGalary/IMG_4743.JPG" class="img-responsive" alt='bold(&quot;TOP PRO NAILS&quot;)'>
+                        
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                    <a href="/MyPhotosGalary/top_1040922125455AM.jpg" class="portfolio-box">
+                        <img src="/MyPhotosGalary/top_1040922125455AM.jpg" class="img-responsive" alt='bold(&quot;TOP PRO NAILS&quot;)'>
+                        
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                    <a href="/MyPhotosGalary/IMG_3242_(1)040922125455AM.jpg" class="portfolio-box">
+                        <img src="/MyPhotosGalary/IMG_3242_(1)040922125455AM.jpg" class="img-responsive" alt='bold(&quot;TOP PRO NAILS&quot;)'>
+                        
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                    <a href="/MyPhotosGalary/IMG_9288.JPG" class="portfolio-box">
+                        <img src="/MyPhotosGalary/IMG_9288.JPG" class="img-responsive" alt='bold(&quot;TOP PRO NAILS&quot;)'>
+                        
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                    <a href="/MyPhotosGalary/IMG_9406.JPG" class="portfolio-box">
+                        <img src="/MyPhotosGalary/IMG_9406.JPG" class="img-responsive" alt='bold(&quot;TOP PRO NAILS&quot;)'>
+                        
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                    <a href="/MyPhotosGalary/IMG_7646.JPG" class="portfolio-box">
+                        <img src="/MyPhotosGalary/IMG_7646.JPG" class="img-responsive" alt='bold(&quot;TOP PRO NAILS&quot;)'>
+                        
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                    <a href="/MyPhotosGalary/permanentMakeup.jpg" class="portfolio-box">
+                        <img src="/MyPhotosGalary/permanentMakeup.jpg" class="img-responsive" alt='bold(&quot;TOP PRO NAILS&quot;)'>
+                        
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                    <a href="/MyPhotosGalary/IMG_9291.JPG" class="portfolio-box">
+                        <img src="/MyPhotosGalary/IMG_9291.JPG" class="img-responsive" alt='bold(&quot;TOP PRO NAILS&quot;)'>
+                        
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                    <a href="/MyPhotosGalary/IMG_3244_(1)040922125455AM.jpg" class="portfolio-box">
+                        <img src="/MyPhotosGalary/IMG_3244_(1)040922125455AM.jpg" class="img-responsive" alt='bold(&quot;TOP PRO NAILS&quot;)'>
+                        
+                    </a>
+                </div>
+                <div class="col-lg-2 col-md-2 col-sm-3 col-xs-3">
+                    <a href="/MyPhotosGalary/hostparty1.jpg" class="portfolio-box">
+                        <img src="/MyPhotosGalary/hostparty1.jpg" class="img-responsive" alt='bold(&quot;TOP PRO NAILS&quot;)'>
+                        
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <aside class="bg-dark" style="background-color:Violet">
+        <div class="container text-center">
+            <div class="call-to-action">
+                <h2>Our Photos Gallery</h2>
+                <a href="/Home/Gallery" style="color:Violet" class="btn btn-default btn-xl sr-button">Show More...</a>
+            </div>
+        </div>
+    </aside>
+
+    
+    
+    <section id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h2 class="section-heading">Let's Get In Touch!</h2>
+                    <hr class="primary" style="border-color: Violet">
+                </div>
+                <div class="col-lg-4 text-center">
+                    <i class="fa fa-phone fa-3x sr-contact"></i>
+                    
+                    <p>
+                            <a href='tel:(626) 966-1360' style="color:Violet">(626) 966-1360</a>
+                        
+                        </p>
+</div>
+
+                    <div style="" class="col-lg-4 text-center">
+                        <i class="fa fa-envelope-o fa-3x sr-contact"></i>
+                        <p><a href="/cdn-cgi/l/email-protection#ba9aeef5eaeae8f5f4fbf3f6e9fafdf7fbf3f694f9f5f7" style="color:Violet !important"><span class="__cf_email__" data-cfemail="aafee5fafaf8e5e4ebe3e6f9eaede7ebe3e684e9e5e7">[email&#160;protected]</span></a></p>
+                    </div>
+                <div class="col-lg-4 text-center">
+                    <i class="fa fa-location-arrow fa-3x sr-contact"></i>
+                    <br/>
+                    <b style="font-family:Arial">BOLD(&quot;TOP PRO NAILS&quot;)</b>
+                    <p><a href='https://g.page/toppronails?share' style="color:Violet">579 N AZUSA AVE, COVINA, CA 91722 </a><a class="btn btn-default btn-xs" href="https://g.page/toppronails?share" style="color:black;font-style:italic; background-color:lightgray">Get Directions</a></p>
+                </div>
+            </div>
+            
+        </div>
+        
+    </section>
+
+    <section class="" style="border-top:solid thin; border-top-color:Violet"  id="openHour">
+        <div class="container" style="">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h2 class="section-heading">Business Hours</h2>
+                    <hr class="primary" style="border-color: Violet">
+                </div>
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <p style='color: Violet ; white-space:pre-line'  >Mon-Sat: 9:30 AM - 7:00 PM
+Sunday: 10:00 AM - 4:00 PM</p> 
+                </div>
+                
+            </div>
+            
+            <div class="row">
+              
+                    <div class="col-xs-12" style="text-align:center"> <a href="/Home/AppointmentLink" class="page-scroll btn btn-default btn-xl sr-button" style="background-color:Violet; color:white; margin-top:50px">BOOK NOW</a></div>
+
+            </div>
+            <div class="row">
+
+
+            </div>
+        </div>
+
+    </section>
+
+
+
+
+
+    <!-- https://developers.facebook.com/docs/plugins/page-plugin/ -->
+    
+
+
+
+    <section class="bg-dark" style="background-color:white; padding:0px" id="map">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center" style="padding:0px">
+
+                    <div class="text-center map-responsive">
+                        <iframe src="https://maps.google.com/?q=bold(&quot;TOP%20PRO%20NAILS&quot;)%20579%20N%20AZUSA%20AVE,%20COVINA,%20CA%2091722&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=&amp;output=embed" width="800" height="600" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+
+    </section>
+
+
+
+    <!--
+        uncomment this section to display google reviews. must get widget from elfsight.com
+        -->
+    <!--
+    <section class="bg-dark" style="background-color:white; padding:0px" id="map">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center" style="padding:0px">
+                    
+                    <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+                    <div class="elfsight-app-e7a35593-9d58-4dcf-afd7-57483a713e3f"></div>
+                </div>
+                    
+                </div>
+
+
+           
+        </div>
+
+    </section>
+        -->
+ 
+
+    <section style="padding:2px; text-align:center;border-top:solid thin;background-color:gray"><a href="/Dashboard" style="color:white; font-size:small">This website is powered by www.nailsolution.us</a></section>
+
+    <div style="position:fixed; right:10px; bottom:40px; width:250px;display:inline-block">
+        
+            <a style="background:rgba(230,230,230, 0.8); float:left;width:50px;border-radius: 50%;" href='tel:(626) 966-1360'><img src="/img/call me small.gif" style="width:50px;border-radius: 50%; border-style:solid; border-color:Violet; border-width:thin "></a>
+            <a style="background:rgba(230,230,230, 0.8); float:left;width:50px;border-radius: 50%; margin-left:10px" href='https://g.page/toppronails?share'><img src="/img/directionTransparent.png" style="width:50px;border-radius: 50%; border-style:solid; border-color:Violet; border-width:thin "></a>
+
+
+            <a style="background:rgba(230,230,230, 0.8); float:left;width:50px;border-radius: 50%; margin-left:10px" href='/Home/AppointmentLink'><img src="/img/bookingIcon.png" style="width:50px;border-radius: 50%; border-style:solid; border-color:Violet; border-width:thin "></a>
+
+
+    </div>
+
+    <!--social media-->
+    <div style="position:fixed; right:0px; top:80px; background:rgba(230,230,230, 0.2); width:30px;" >
+            <a itemprop="sameAs" href="https://www.yelp.com/biz/top-pro-nails-covina" class="fa fa-yelp fa-2x" style="color:red; font-size:xx-large"></a>
+        
+
+            <a itemprop="sameAs" href="https://g.page/toppronails?share" class="fa fa-google-plus-official fa-2x" style="color:forestgreen; font-size:xx-large"></a>
+                    <a itemprop="sameAs" href="https://www.facebook.com/toppronails/" class="fa fa-facebook-official fa-2x" style="color:dodgerblue; font-size:xx-large"></a>
+                    </div>
+        <!--announcement-->
+        <div class="panel panel-default popupPanel" style="width: 350px;position: fixed;margin-left: -175px;top:155px;left: 50%;background-color:Violet; color:white;border-color:Violet; border-style:groove">
+
+            <!--<div class="panel-heading" style="">Announcement!<span class="pull-right btn btn-danger btn-xs popupPanelCancel">&times;</span></div>-->
+            <div class="panel-heading" style="color:Violet">
+                Important!
+                <form class="delete pull-right" action="/Home/CloseAnnouncement" method="post" style="">
+                    <div style="float:left">
+                        <input type="submit" value="x" style="" class="pull-right btn btn-danger btn-sm popupPanelCancel"/>
+
+                    </div>
+
+                </form>
+            </div>
+            <div class="panel-body" style="padding:5px">
+                    <div style="color:white;margin-bottom:5px; white-space:pre-line"  class="popupDetail"> *Gift Certificate Available.
+	  *Appt &amp; Walk-Ins Welcomed.
+	  *We use ultra-hygienic disposable liners for each customer to prevent cross-contamination</div>
+
+                    <img src='/MyPhotosGalary/CouponsAndAdsIMG/IMG_1023.JPG' class="img-responsive center-block"/>
+
+            </div>
+        </div>
+
+
+        <p style="color:white; font-size:xx-large;width:100%; height:70%;padding-top:50px; font-weight:bold;text-align:center; position:fixed; top: 50px; left:0px; background-color:red">THIS SITE IS EXPIRED. PLEASE CONTACT NAILSOLUTION LLC at +1-877-489-5667 to renew!</p>
+
+
+    
+
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+        //bold and italic bold("bold this text") italics("italic this text") red("make this text red")
+        //https://stackoverflow.com/questions/46019042/how-to-replace-text-containing-string-with-a-html-tag
+        var parserRules = [
+      { pattern: /bold\("(.*?)"\)/g, replacement: '<b>$1</b>' },
+      { pattern: /italics\("(.*?)"\)/g, replacement: '<i>$1</i>' },
+      { pattern: /underline\("(.*?)"\)/g, replacement: '<u>$1</u>' },
+      { pattern: /red\("(.*?)"\)/g, replacement: '<span style ="color:red">$1</span>' },
+      { pattern: /orange\("(.*?)"\)/g, replacement: '<span style ="color:orange">$1</span>' },
+      { pattern: /green\("(.*?)"\)/g, replacement: '<span style ="color:green">$1</span>' },
+      { pattern: /BOLD\("(.*?)"\)/g, replacement: '<b>$1</b>' },
+      { pattern: /ITALICS\("(.*?)"\)/g, replacement: '<i>$1</i>' },
+      { pattern: /UNDERLINE\("(.*?)"\)/g, replacement: '<u>$1</u>' },
+      { pattern: /RED\("(.*?)"\)/g, replacement: '<span style ="color:red">$1</span>' },
+      { pattern: /ORANGE\("(.*?)"\)/g, replacement: '<span style ="color:orange">$1</span>' },
+      { pattern: /GREEN\("(.*?)"\)/g, replacement: '<span style ="color:green">$1</span>' },
+      { pattern: /white\("(.*?)"\)/g, replacement: '<span style ="color:white">$1</span>' },
+        { pattern: /WHITE\("(.*?)"\)/g, replacement: '<span style ="color:white">$1</span>' },
+        { pattern: /BLACK\("(.*?)"\)/g, replacement: '<span style ="color:black">$1</span>' },
+        { pattern: /black\("(.*?)"\)/g, replacement: '<span style ="color:black">$1</span>' },
+        { pattern: /gray\("(.*?)"\)/g, replacement: '<span style ="color:gray">$1</span>' },
+        { pattern: /GRAY\("(.*?)"\)/g, replacement: '<span style ="color:gray">$1</span>' }
+
+        ];
+
+        document.querySelectorAll('.parse').forEach(function (tag) {
+            var inner = tag.innerHTML;
+            parserRules.forEach(function (rule) {
+                inner = inner.replace(rule.pattern, rule.replacement)
+            });
+            tag.innerHTML = inner;
+        });
+
+        
+    </script>
+
+
+
+    <!-- jQuery -->
+    <script src="/MySiteTemplate1/vendor/jquery/jquery.min.js"></script>
+    <!-- Bootstrap Core JavaScript -->
+    <script src="/MySiteTemplate1/vendor/bootstrap/js/bootstrap.min.js"></script>
+    <!-- Plugin JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+    <script src="/MySiteTemplate1/vendor/scrollreveal/scrollreveal.min.js"></script>
+    <script src="/MySiteTemplate1/vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+    <!-- Theme JavaScript -->
+    <script src="/MySiteTemplate1/js/creative.min.js"></script>
+
+    <script>
+
+        $('.popupPanelCancel').on("click", function () {
+            $('.popupPanel').addClass('hidden')
+        });
+        //How do I maintain scroll position in MVC after post submit
+        //https://stackoverflow.com/questions/484463/how-do-i-maintain-scroll-position-in-mvc // or can using ajax to post a form
+        $(document).scroll(function () {
+            localStorage['page'] = document.URL;
+            localStorage['scrollTop'] = $(document).scrollTop();
+        });
+
+        $(document).ready(function () {
+            if (localStorage['page'] == document.URL) {
+                $(document).scrollTop(localStorage['scrollTop']);
+            }
+        });
+
+        //scroll to the top
+        $(document).ready(function () {
+            //Check to see if the window is top if not then display button
+            $(window).scroll(function () {
+                if ($(this).scrollTop() > 100) {
+                    $('.scrollTop').fadeIn();
+                } else {
+                    $('.scrollTop').fadeOut();
+                }
+            });
+            //Click event to scroll to top
+            $('.scrollTop').click(function () {
+                $('html, body').animate({ scrollTop: 0 }, 800);
+                return false;
+            });
+        });
+
+    </script>
+
+
+    <!--collappe menu bar when click outside menu bar -->
+    <script>
+        jQuery('body').bind('click', function (e) {
+            if (jQuery(e.target).closest('.navbar').length == 0) {
+                // click happened outside of .navbar, so hide
+                var opened = jQuery('.navbar-collapse').hasClass('collapse in');
+                if (opened === true) {
+                    jQuery('.navbar-collapse').collapse('hide');
+                }
+            }
+        });
+    </script>
+
+    <!--this is for snow and autum affect https://thomas.vanhoutte.be/miniblog/snow-effect/ -->
+    <!--UNCOMMENT THIS FOR SNOW OR AUTUM AFFECT-->
+    <!--enable snow on mobile. should turn off or true if it slow down your site-->
+    
+   <!--
+       
+   
+    <script src="//cdnjs.cloudflare.com/ajax/libs/Snowstorm/20131208/snowstorm-min.js"></script>
+    
+    <script>snowStorm.excludeMobile = false;</script>
+    <script>
+snowStorm.snowColor = '#ffffff'; //give the snowflakes another colour
+snowStorm.flakesMaxActive = 30; //the maximum number of active snow flakes on the screen, lowering this may increase performance
+snowStorm.followMouse = true; //the snow will fall in a certain direction based on the position of your mouse
+snowStorm.snowCharacter = '🍁'; //change the flake to a specific character 🍁  l2 🍂 l3 🍃 snow ❄️ snow2 ⛄️
+snowStorm.snowStick = true; //if true, the snow will stick to the bottom of the screen
+    </script>
+    <script>
+snowStorm.animationInterval = 30; //milliseconds per frame, the higher the less CPU load
+snowStorm.flakesMaxActive = 7; //maximum number of active snow flakes, the lower the less CPU/GPU is needed to draw them
+snowStorm.freezeOnBlur = true; //recommended: stops the snow effect when the user switches to another tab or window
+snowStorm.usePositionFixed = true; //if the user scrolls, the snow is not affected by the window scroll. Disable to prevent extra CPU load
+    </script>
+       
+       -->
+ 
+    
+    
+</body>
+</html>

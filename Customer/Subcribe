@@ -1,0 +1,240 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="../img/myfavicon.ico" type="image/x-icon">
+    <link rel="icon" href="../img/myfavicon.ico" type="image/x-icon">
+    <title>Subcribe - posh nails and spa</title>
+    
+    <!-- Bootstrap Core CSS -->
+    <link href="../MySiteTemplate1/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <!-- Custom Fonts -->
+
+    <link href="../MySiteTemplate1/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+    <!-- Plugin CSS -->
+    <link href="../MySiteTemplate1/vendor/magnific-popup/magnific-popup.css" rel="stylesheet" />
+    <!-- Theme CSS -->
+    <link href="../MySiteTemplate1/css/creative.min.css" rel="stylesheet" />
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <style type="text/css">
+        .video-container {
+            position: relative;
+            padding-bottom: 56.25%;
+            padding-top: 30px;
+            height: 0;
+            overflow: hidden;
+        }
+
+            .video-container iframe,
+            .video-container object,
+            .video-container embed {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+            }
+
+        .resp-iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: 0;
+        }
+
+        .resp-container {
+            top: 15%;
+            bottom: 0px;
+            height: 85%;
+            width: 100%;
+            position: relative;
+            overflow: hidden;
+        }
+
+         @media only screen and (min-width: 700px) {
+    #bs-example-navbar-collapse-1 {padding-left:100px}
+
+}
+
+
+    </style>
+
+
+
+</head>
+
+
+<body style="padding-top:0px; margin-top:3px" class="parse">
+
+
+
+    <nav id="mainNav" class="navbar navbar-default navbar-fixed-top" style='background-color:white; height: 70px;border-bottom-width: thick; border-bottom-color:DarkTurquoise'>
+        <div class="container-fluid" style="height:70px;padding-top:0px; padding-left:0px; padding-right:0px">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header" style="margin:0px">
+                <button style="border-color:DarkTurquoise ; color:DarkTurquoise; margin-top:15px" type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars" style="color:DarkTurquoise"></i>
+                </button>
+                    <a id="storename" class="navbar-brand page-scroll" href="../Home/Index#page-top" style="color:DarkTurquoise !important;margin-top:10px; margin-left:3px; text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;">POSH NAILS AND SPA</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" style='background-color:white;border-bottom: thick solid DarkTurquoise; width:inherit; height:70px;max-height:1200px'>
+                <ul class="nav navbar-nav navbar-right" style="text-align:center; margin-top:10px">
+                    <li>
+                        <a class="page-scroll" href="../Home/Index#page-top" style='color:DarkTurquoise'>Home</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="../Home/Index#about" style='color:DarkTurquoise'>About</a>
+                    </li>
+
+                    <li>
+                        <a class="page-scroll" href="../ServiceAndPrice/ShowService" style='color:DarkTurquoise'>Services</a>
+                    </li>
+
+                    <li>
+                        <a class="page-scroll" href="../Home/Gallery" style='color:DarkTurquoise'>Gallery</a>
+                    </li>
+
+
+
+                    <li>
+                        <a class="page-scroll" href="../Home/Index#contact" style='color:DarkTurquoise'>Contact</a>
+                    </li>
+
+                    <li>
+                        <a class="page-scroll" href="../Coupon/ShowCoupons" style='color:DarkTurquoise'>Specials</a>
+                    </li>
+                        <li>
+
+                            <a style='color:DarkTurquoise' class="" href='../Home/AppointmentLink'>Online_Booking</a>
+                        </li>
+
+                    
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+
+        <iframe id="" src='https://nailsolutionplus.firebaseapp.com/subscribe?storeKey=-MxGFTuV9c55S86jI1n-' style="width:100%; height: 85%; margin-top:70px; border:none"></iframe>
+    
+
+
+    <div class='feedback hidden' style="position:fixed; top: 50%; left: 50%; width:24em; height:26em; margin-top: -13em; /*set to a negative number 1/2 of your height*/ margin-left: -12em; /*set to a negative number 1/2 of your width*/
+    background: rgba(255,255,255, 0.9); text-align:center">
+        <br><br><br>
+        <br><br><br>
+        <span class="text-info">You are now conneted with us!</span>
+        <br>
+        <a class="okFeedback btn btn-sm btn-warning">Ok</a>
+    </div>
+
+
+    <div style="position:fixed; right:10px; bottom:5px; width:250px;display:inline-block">
+
+        <a style="background:rgba(230,230,230, 0.8); float:left;width:50px;border-radius: 50%;" href='tel:(813) 249-4715'><img src="../img/call&#32;me&#32;small.gif" style="width:50px;border-radius: 50%; border-style:solid; border-color:DarkTurquoise; border-width:thin "></a>
+        <a style="background:rgba(230,230,230, 0.8); float:left;width:50px;border-radius: 50%; margin-left:10px" href='https://goo.gl/maps/Cmp7JKbFDXcH1WUb8'><img src="../img/directionTransparent.png" style="width:50px;border-radius: 50%; border-style:solid; border-color:DarkTurquoise; border-width:thin "></a>
+
+
+            <a style="background:rgba(230,230,230, 0.8); float:left;width:50px;border-radius: 50%; margin-left:10px" href='../Home/AppointmentLink'><img src="../img/bookingIcon.png" style="width:50px;border-radius: 50%; border-style:solid; border-color:DarkTurquoise; border-width:thin "></a>
+        
+    </div>
+
+    <!--social media-->
+        <div style="position:fixed; right:0px; top:80px; background:rgba(230,230,230, 0.2); width:30px;">
+                <a href="https://www.yelp.com/biz/posh-nails-and-spa-tampa" class="fa fa-yelp fa-2x" style="color:red; font-size:xx-large"></a>
+
+
+                <a href="https://goo.gl/maps/Cmp7JKbFDXcH1WUb8" class="fa fa-google-plus-official fa-2x" style="color:forestgreen; font-size:xx-large"></a>
+                            <a href="https://www.facebook.com/poshnailstampa" class="fa fa-facebook-official fa-2x" style="color:dodgerblue; font-size:xx-large"></a>
+                                </div>
+
+
+    <script>
+        //bold and italic bold("bold this text") italics("italic this text") red("make this text red")
+        //https://stackoverflow.com/questions/46019042/how-to-replace-text-containing-string-with-a-html-tag
+        var parserRules = [
+      { pattern: /bold\("(.*?)"\)/g, replacement: '<b>$1</b>' },
+      { pattern: /italics\("(.*?)"\)/g, replacement: '<i>$1</i>' },
+      { pattern: /underline\("(.*?)"\)/g, replacement: '<u>$1</u>' },
+      { pattern: /red\("(.*?)"\)/g, replacement: '<span style ="color:red">$1</span>' },
+      { pattern: /orange\("(.*?)"\)/g, replacement: '<span style ="color:orange">$1</span>' },
+      { pattern: /green\("(.*?)"\)/g, replacement: '<span style ="color:green">$1</span>' },
+      { pattern: /BOLD\("(.*?)"\)/g, replacement: '<b>$1</b>' },
+      { pattern: /ITALICS\("(.*?)"\)/g, replacement: '<i>$1</i>' },
+      { pattern: /UNDERLINE\("(.*?)"\)/g, replacement: '<u>$1</u>' },
+      { pattern: /RED\("(.*?)"\)/g, replacement: '<span style ="color:red">$1</span>' },
+      { pattern: /ORANGE\("(.*?)"\)/g, replacement: '<span style ="color:orange">$1</span>' },
+      { pattern: /GREEN\("(.*?)"\)/g, replacement: '<span style ="color:green">$1</span>' },
+      { pattern: /white\("(.*?)"\)/g, replacement: '<span style ="color:white">$1</span>' },
+        { pattern: /WHITE\("(.*?)"\)/g, replacement: '<span style ="color:white">$1</span>' },
+        { pattern: /BLACK\("(.*?)"\)/g, replacement: '<span style ="color:black">$1</span>' },
+        { pattern: /black\("(.*?)"\)/g, replacement: '<span style ="color:black">$1</span>' },
+        { pattern: /gray\("(.*?)"\)/g, replacement: '<span style ="color:gray">$1</span>' },
+        { pattern: /GRAY\("(.*?)"\)/g, replacement: '<span style ="color:gray">$1</span>' }
+
+        ];
+
+        document.querySelectorAll('.parse').forEach(function (tag) {
+            var inner = tag.innerHTML;
+            parserRules.forEach(function (rule) {
+                inner = inner.replace(rule.pattern, rule.replacement)
+            });
+            tag.innerHTML = inner;
+        });
+    </script>
+
+
+    <!-- jQuery -->
+    <script src="../MySiteTemplate1/vendor/jquery/jquery.min.js"></script>
+    <!-- Bootstrap Core JavaScript -->
+    <script src="../MySiteTemplate1/vendor/bootstrap/js/bootstrap.min.js"></script>
+    <!-- Plugin JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+    <script src="../MySiteTemplate1/vendor/scrollreveal/scrollreveal.min.js"></script>
+    <script src="../MySiteTemplate1/vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+    <!-- Theme JavaScript -->
+    <script src="../MySiteTemplate1/js/creative.min.js"></script>
+    <script>
+        $('.okFeedback').on("click", function () {
+            $('.feedback').addClass('hidden');
+            //show time line here
+        });
+
+        $("input[name='phone']").keyup(function () {
+            $(this).val($(this).val().replace(/^(\d{3})(\d{3})(\d)+$/, "($1)$2-$3"));
+        });
+    </script>
+
+    <!--collappe menu bar when click outside menu bar -->
+    <script>
+        jQuery('body').bind('click', function (e) {
+            if (jQuery(e.target).closest('.navbar').length == 0) {
+                // click happened outside of .navbar, so hide
+                var opened = jQuery('.navbar-collapse').hasClass('collapse in');
+                if (opened === true) {
+                    jQuery('.navbar-collapse').collapse('hide');
+                }
+            }
+        });
+    </script>
+
+</body>
+</html>

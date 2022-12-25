@@ -1,0 +1,1158 @@
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="/img/myfavicon.ico" type="image/x-icon">
+    <link rel="icon" href="/img/myfavicon.ico" type="image/x-icon">
+    <title>Services - top pro nails</title>
+    <!-- Bootstrap Core CSS -->
+    <link href="/MySiteTemplate1/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <!-- Custom Fonts -->
+
+    <link href="/MySiteTemplate1/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+    <!-- Plugin CSS -->
+    <link href="/MySiteTemplate1/vendor/magnific-popup/magnific-popup.css" rel="stylesheet" />
+    <!-- Theme CSS -->
+    <link href="/MySiteTemplate1/css/creative.min.css" rel="stylesheet" />
+    
+
+
+    <style>
+        
+        @media only screen and (min-width: 700px) {
+    #bs-example-navbar-collapse-1 {padding-left:100px}
+
+}
+
+
+
+
+    </style>
+</head>
+<body style="padding-top:0px; margin-top:3px; font-family:Arial" class="parse">
+    <nav id="mainNav" class="navbar navbar-default navbar-fixed-top" style='background-color:white; height: 70px;border-bottom-width: thick; border-bottom-color:Violet'>
+        <div class="container-fluid" style="height:70px;padding-top:0px; padding-left:0px; padding-right:0px">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header" style="margin:0px">
+                <button style="border-color:Violet ; color:Violet; margin-top:15px" type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars" style="color:Violet"></i>
+                </button>
+                    <a id="storename" class="navbar-brand page-scroll" href="/Home/Index#page-top" style="color:Violet !important;margin-top:10px; margin-left:3px; text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white; font-family:Arial">BOLD(&quot;TOP PRO NAILS&quot;)</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" style='background-color:white;border-bottom: thick solid Violet; width:inherit; height:70px;max-height:1200px'>
+                <ul class="nav navbar-nav navbar-right" style="text-align:center; margin-top:10px">
+                    <li>
+                        <a class="page-scroll" href="/Home/Index#page-top" style='color:Violet'>Home</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="/Home/Index#about" style='color:Violet'>About</a>
+                    </li>
+
+                    <li>
+                        <a class="page-scroll" href="/Home/Gallery" style='color:Violet'>Gallery</a>
+                    </li>
+
+
+
+                    <li>
+                        <a class="page-scroll" href="/Home/Index#contact" style='color:Violet'>Contact</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="/Coupon/ShowCoupons" style='color:Violet'>Specials</a>
+                    </li>
+                        <li>
+
+                            <a style='color:Violet' class="" href='/Home/AppointmentLink'>Online_Booking</a>
+                        </li>
+
+                    
+
+                        <li>
+                            <a class="page-scroll" href="/Customer/Subcribe" style='color:Violet'>Subscribe</a>
+                        </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+    <div class="container body-content " style="margin-top:70px">
+
+        <div class="row">
+
+            <h2 style="font-family:'Comic Sans MS'; color:deeppink; margin-bottom:0px;padding:0px; text-align:center; color:Violet">OUR SERVICES</h2>
+            <hr style="margin-bottom:100px; border-color: Violet">
+            
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12" id="manicure">
+                    <h3 style="margin:auto; text-align:center; display:block; color:Violet">MANICURE</h3>
+                    <img src='/MyPhotosGalary/IMG_9284.JPG' class="img-responsive img-circle img-thumbnail" alt='BOLD(&quot;TOP PRO NAILS&quot;) - manicure' style="width:130px; height:130px; display:block;margin:auto; border-color:Violet">
+                    <h4 style="color:black; text-align:center; display:block;padding:20px; white-space:pre-line"></h4>
+                    <table class="table table-responsive" style="font-size:80%; border:none">
+
+                        <tbody style="font-size:medium">
+
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">CLASSIC MANICURE</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $18</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:thin dashed; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span style="white-space:pre-line">Nails trim, shape, cuticles care, buff, light massage and regular polish</span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">HOT OIL MANICURE</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $25</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:thin dashed; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span class="shortDescription" style="white-space:pre-line">Nails trim, shape, soak hands into hot oil then cuticles care, buff, light massage &amp; hot towel and r </span> <span class="showMore" style="color:gray; padding:1px; color:dodgerblue"> read more...</span>
+                                            <span class="description hidden" style="white-space:pre-line">Nails trim, shape, soak hands into hot oil then cuticles care, buff, light massage &amp; hot towel and regular polish</span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">GEL MANICURE</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $30</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span style="white-space:pre-line">Nails trim, shape, cuticles care, buff, light massage and GEL polis</span>
+
+                                    </td>
+                                </tr>
+                        </tbody>
+
+
+                    </table>
+                    <br>
+
+                    <div style="display:block; border-bottom:double; margin-left:50px; margin-right:50px"></div>
+                    <br>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12" id="pedicure">
+                    <h3 style="margin:auto; text-align:center; display:block; color:Violet">PEDICURE</h3>
+                    <img src='/MyPhotosGalary/IMG_9407.JPG' class="img-responsive img-circle img-thumbnail" alt='BOLD(&quot;TOP PRO NAILS&quot;) - pedicure' style="width:130px; height:130px; display:block;margin:auto; border-color:Violet">
+                    <h4 style="color:black; text-align:center; display:block;padding:20px; white-space:pre-line"></h4>
+                    <table class="table table-responsive" style="font-size:80%; border:none">
+
+                        <tbody style="font-size:medium">
+
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">CLASSIC PEDICURE</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $25</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:thin dashed; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span class="shortDescription" style="white-space:pre-line">Our classic pedicure includes nails trim, cuticles care, sugar scrub, light heel scrub &amp; mini massag </span> <span class="showMore" style="color:gray; padding:1px; color:dodgerblue"> read more...</span>
+                                            <span class="description hidden" style="white-space:pre-line">Our classic pedicure includes nails trim, cuticles care, sugar scrub, light heel scrub &amp; mini massage, and regular nail polish.</span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">SIGNATURE PEDICURE</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $32</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:thin dashed; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span class="shortDescription" style="white-space:pre-line">Ideal for feet that need heel care or pampering, includes classic pedicure, intensive callus removal </span> <span class="showMore" style="color:gray; padding:1px; color:dodgerblue"> read more...</span>
+                                            <span class="description hidden" style="white-space:pre-line">Ideal for feet that need heel care or pampering, includes classic pedicure, intensive callus removal or cooling gel, finishing with hot rock massage.</span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">DELUXE PEDICURE</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $40</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:thin dashed; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span class="shortDescription" style="white-space:pre-line">Relax your feet with our signature pedicure, follow with a 10 minutes massage and paraffin dip to re </span> <span class="showMore" style="color:gray; padding:1px; color:dodgerblue"> read more...</span>
+                                            <span class="description hidden" style="white-space:pre-line">Relax your feet with our signature pedicure, follow with a 10 minutes massage and paraffin dip to relieve your tired and ached feet.</span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">JELLY SPA PEDICURE</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $50</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:thin dashed; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span class="shortDescription" style="white-space:pre-line">Enjoy the ultimate experience for relaxation using heat therapy, which soothes aching joints and mus </span> <span class="showMore" style="color:gray; padding:1px; color:dodgerblue"> read more...</span>
+                                            <span class="description hidden" style="white-space:pre-line">Enjoy the ultimate experience for relaxation using heat therapy, which soothes aching joints and muscles. Jelly Bath is FREE OF harmful chemicals or preservatives and is fully bio-degradable. Available scents Rose, Lavender, Green tea, Pearl glow, Charcoal detox. Callus treatment and Paraffin also include.</span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">DIAMOND PEDICURE</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $55</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:thin dashed; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span class="shortDescription" style="white-space:pre-line">Beginning by soaking your feet into bath flowers petals and slices of orange to relaxing your tired  </span> <span class="showMore" style="color:gray; padding:1px; color:dodgerblue"> read more...</span>
+                                            <span class="description hidden" style="white-space:pre-line">Beginning by soaking your feet into bath flowers petals and slices of orange to relaxing your tired feet with a feeling like a royal, then includes everything come with the Herbal Signature Pedicure.</span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">VOLCANO PEDICURE</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $60</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:thin dashed; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span class="shortDescription" style="white-space:pre-line">Relax and rejuvenate with our Volcano pedicure, Detox Volcano Crystals and Activators combine to cre </span> <span class="showMore" style="color:gray; padding:1px; color:dodgerblue"> read more...</span>
+                                            <span class="description hidden" style="white-space:pre-line">Relax and rejuvenate with our Volcano pedicure, Detox Volcano Crystals and Activators combine to create an invigorating and detoxifying experience with a fun bubbling explosion! Then complete the pedicure treatment with an exfoliating sugar scrub, collagen cream mask and 15-minute collagen massage lotion made with organic based ingredients. (available scents: Romance, Honey Pearl, Orange No.5 and Tropical Citrus)</span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">COLLAGEN SPA PEDICURE</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $65</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:thin dashed; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span class="shortDescription" style="white-space:pre-line">On your feet all day? This pedicure will help relieve muscle and joint pain, stress, aches and heada </span> <span class="showMore" style="color:gray; padding:1px; color:dodgerblue"> read more...</span>
+                                            <span class="description hidden" style="white-space:pre-line">On your feet all day? This pedicure will help relieve muscle and joint pain, stress, aches and headaches, with our 6-in-1 Spa kit made from 100% all-natural ingredients which helps remove toxin, impurities, and harmful substances from your skin. A Specially formulated collagen mask &amp; cream will provide deep mobilization to reduce the appearance of fine lines and wrinkles and collagen Muscle-Relaxing Gel Refreshes and relaxes muscles. An instant revitalizer for tired legs and muscle tension massage for soothing and warming effects. Then finishing with a 15-minute massage with collagen lotion and Hot Stone massage will increase blood circulation and penetrate collagen deeper into your skin. (Available Scents: No.5, Sweet Orange, Luxury Pearl, Lemon Splash, Lavender &amp; Lace, Crystal Water)</span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">BOMB SPA PEDICURE</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $65</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span class="shortDescription" style="white-space:pre-line">A secret to unforgettable experience designed specically for your feet, this organic bomb spa packag </span> <span class="showMore" style="color:gray; padding:1px; color:dodgerblue"> read more...</span>
+                                            <span class="description hidden" style="white-space:pre-line">A secret to unforgettable experience designed specically for your feet, this organic bomb spa package includes a bath bomb, cuticle softener, sea salt scrub, collagen mask, collagen cream, our bath bomb has a naturally healing properties and scents of purpose. It helps detox, clean, deodorize, repair skin, and strengthen blood vessels to promote amazing skin softening, including a 15-minute massage and paraffin wax. (Available Scent: Peony Orchid, Cherry Blossom, Melon Mango, Jasmine, French lavender, Hawaii Citrus, Red Carpet, Mother of pearl, Vervain)</span>
+
+                                    </td>
+                                </tr>
+                        </tbody>
+
+
+                    </table>
+                    <br>
+
+                    <div style="display:block; border-bottom:double; margin-left:50px; margin-right:50px"></div>
+                    <br>
+                </div>
+                                                <div class="clearfix"></div> <!--resolve differrent height of col https://www.bootply.com/89910-->
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12" id="nail enhancements">
+                    <h3 style="margin:auto; text-align:center; display:block; color:Violet">NAIL ENHANCEMENTS</h3>
+                    <img src='/MyPhotosGalary/manicure4.jpg' class="img-responsive img-circle img-thumbnail" alt='BOLD(&quot;TOP PRO NAILS&quot;) - nail enhancements' style="width:130px; height:130px; display:block;margin:auto; border-color:Violet">
+                    <h4 style="color:black; text-align:center; display:block;padding:20px; white-space:pre-line"></h4>
+                    <table class="table table-responsive" style="font-size:80%; border:none">
+
+                        <tbody style="font-size:medium">
+
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">GEL-X XTENSION</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $65+</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:thin dashed; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span style="white-space:pre-line"></span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">ACRYLIC OVERLAY</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $45+</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:thin dashed; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span style="white-space:pre-line"></span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">ACRYLIC FULL SET</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $50+</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:thin dashed; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span style="white-space:pre-line"></span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">ACRYLIC FILL IN</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $35+</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:thin dashed; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span style="white-space:pre-line"></span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">PINK &amp; WHITE SET (INCLUDE GEL TOPCOAT)</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $65+</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:thin dashed; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span style="white-space:pre-line"></span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">BACK FILL P&amp; W (INCLUDE GEL TOPCOAT)</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $55+</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:thin dashed; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span style="white-space:pre-line"></span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">PINK FILL (INCLUDE GEL TOPCOAT)</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $45+</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:thin dashed; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span style="white-space:pre-line"></span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">OMBRE COLOR POWDER (INCLUDE GEL TOPCOAT)</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $65+</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:thin dashed; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span style="white-space:pre-line"></span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">OMBRE POWER FILL (INCLUDE GEL TOPCOAT)</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $45+</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:thin dashed; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span style="white-space:pre-line"></span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">COLOR POWDER SET (INCLUDE GEL TOPCOAT)</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $60+</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:thin dashed; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span style="white-space:pre-line"></span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">COLOR POWDER FILL (INCLUDE GEL TOPCOAT)</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $45+</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:thin dashed; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span style="white-space:pre-line"></span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">DIPPING POWER (INCLUDE GEL TOPCOAT)</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $45+</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:thin dashed; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span style="white-space:pre-line"></span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">NAIL CUT DOWN AND SHAPE</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $10+</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:thin dashed; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span style="white-space:pre-line"></span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">GEL POLISH</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $12+</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span style="white-space:pre-line"></span>
+
+                                    </td>
+                                </tr>
+                        </tbody>
+
+
+                    </table>
+                    <br>
+
+                    <div style="display:block; border-bottom:double; margin-left:50px; margin-right:50px"></div>
+                    <br>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12" id="Eyelash Extensions and lash lift">
+                    <h3 style="margin:auto; text-align:center; display:block; color:Violet">EYELASH EXTENSIONS AND LASH LIFT</h3>
+                    <img src='/MyPhotosGalary/eyelash.jpg' class="img-responsive img-circle img-thumbnail" alt='BOLD(&quot;TOP PRO NAILS&quot;) - Eyelash Extensions and lash lift' style="width:130px; height:130px; display:block;margin:auto; border-color:Violet">
+                    <h4 style="color:black; text-align:center; display:block;padding:20px; white-space:pre-line"></h4>
+                    <table class="table table-responsive" style="font-size:80%; border:none">
+
+                        <tbody style="font-size:medium">
+
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">EYELASH FULL SET (INDIVIDUAL)</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $75+</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:thin dashed; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span style="white-space:pre-line"></span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">EYELASH FULL SET (MINK)</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $120+</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:thin dashed; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span style="white-space:pre-line"></span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">EYELASH FILL</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $60</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:thin dashed; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span style="white-space:pre-line"></span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">LASH LIFT (BY APPOINTMENT)</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $150</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span style="white-space:pre-line"></span>
+
+                                    </td>
+                                </tr>
+                        </tbody>
+
+
+                    </table>
+                    <br>
+
+                    <div style="display:block; border-bottom:double; margin-left:50px; margin-right:50px"></div>
+                    <br>
+                </div>
+                                                <div class="clearfix"></div> <!--resolve differrent height of col https://www.bootply.com/89910-->
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12" id="waxing">
+                    <h3 style="margin:auto; text-align:center; display:block; color:Violet">WAXING</h3>
+                    <img src='/MyPhotosGalary/waxing1.jpg' class="img-responsive img-circle img-thumbnail" alt='BOLD(&quot;TOP PRO NAILS&quot;) - waxing' style="width:130px; height:130px; display:block;margin:auto; border-color:Violet">
+                    <h4 style="color:black; text-align:center; display:block;padding:20px; white-space:pre-line"></h4>
+                    <table class="table table-responsive" style="font-size:80%; border:none">
+
+                        <tbody style="font-size:medium">
+
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">EYEBROWS</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $9</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:thin dashed; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span style="white-space:pre-line"></span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">UPPER LIP</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $7</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:thin dashed; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span style="white-space:pre-line"></span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">CHIN</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $10+</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:thin dashed; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span style="white-space:pre-line"></span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">SIDE BURNS</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $10+</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:thin dashed; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span style="white-space:pre-line"></span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">FULL FACE</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $35+</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:thin dashed; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span style="white-space:pre-line"></span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">FULL BACK</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $45+</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:thin dashed; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span style="white-space:pre-line"></span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">CHEST</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $25+</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:thin dashed; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span style="white-space:pre-line"></span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">UNDER ARMS</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $15+</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:thin dashed; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span style="white-space:pre-line"></span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">FULL ARMS</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $35+</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:thin dashed; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span style="white-space:pre-line"></span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">HALF ARMS</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $25+</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:thin dashed; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span style="white-space:pre-line"></span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">FULL LEGS</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $60+</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:thin dashed; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span style="white-space:pre-line"></span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">HALF LEGS</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $30+</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:thin dashed; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span style="white-space:pre-line"></span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">BIKINI</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $35+</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:thin dashed; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span style="white-space:pre-line"></span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">BRAZILIAN</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $45+</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span style="white-space:pre-line"></span>
+
+                                    </td>
+                                </tr>
+                        </tbody>
+
+
+                    </table>
+                    <br>
+
+                    <div style="display:block; border-bottom:double; margin-left:50px; margin-right:50px"></div>
+                    <br>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12" id="additional services">
+                    <h3 style="margin:auto; text-align:center; display:block; color:Violet">ADDITIONAL SERVICES</h3>
+                    <img src='/MyPhotosGalary/manicure2.jpg' class="img-responsive img-circle img-thumbnail" alt='BOLD(&quot;TOP PRO NAILS&quot;) - additional services' style="width:130px; height:130px; display:block;margin:auto; border-color:Violet">
+                    <h4 style="color:black; text-align:center; display:block;padding:20px; white-space:pre-line"></h4>
+                    <table class="table table-responsive" style="font-size:80%; border:none">
+
+                        <tbody style="font-size:medium">
+
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">REGULAR POLISH CHANGES HANDS &amp; FEETS</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $10</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:thin dashed; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span style="white-space:pre-line">(regular polish)</span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">GEL POLISH CHANGE</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $20+</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:thin dashed; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span style="white-space:pre-line"></span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">BUFF SHINE</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $10</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:thin dashed; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span style="white-space:pre-line"></span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">NAIL REPAIR</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $5+</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:thin dashed; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span style="white-space:pre-line"></span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">NAIL REMOVAL</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $10</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:thin dashed; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span style="white-space:pre-line"></span>
+
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style="border:none;padding:2px; padding-top:6px">
+                                        <span style="font-weight:bold">CALLUS REMOVAL</span> 
+                                    </td>
+                                    <td style="border:none;padding:2px; padding-top:6px; width:50px">
+                                            <span style="font-weight:bold"> $7</span>
+                                    </td>
+                                </tr>
+                                <tr>
+
+                                    <td style='border:none; border-bottom:; padding-top:0px; padding-bottom:4px; color:gray; font-size:medium' colspan="2">
+
+                                            <span style="white-space:pre-line"></span>
+
+                                    </td>
+                                </tr>
+                        </tbody>
+
+
+                    </table>
+                    <br>
+
+                    <div style="display:block; border-bottom:double; margin-left:50px; margin-right:50px"></div>
+                    <br>
+                </div>
+                                                <div class="clearfix"></div> <!--resolve differrent height of col https://www.bootply.com/89910-->
+
+        </div>
+
+
+    </div>
+
+
+    <!--social media-->
+        <div style="position:fixed; right:0px; top:80px; background:rgba(230,230,230, 0.2); width:30px;">
+                <a href="https://www.yelp.com/biz/top-pro-nails-covina" class="fa fa-yelp fa-2x" style="color:red; font-size:xx-large"></a>
+
+
+                <a itemprop="sameAs" href="https://g.page/toppronails?share" class="fa fa-google-plus-official fa-2x" style="color:forestgreen; font-size:xx-large"></a>
+                            <a itemprop="sameAs" href="https://www.facebook.com/toppronails/" class="fa fa-facebook-official fa-2x" style="color:dodgerblue; font-size:xx-large"></a>
+                                </div>
+    <!--<div style="position:fixed; left:2px; top:2px">
+        <a href="/"><img  src="~/img/backArrowAnimatedSmall.gif" style="border-radius: 50%; opacity:0.8; border-style:solid; border-color:Violet; border-width:thin; background-color:white"></a>
+    </div>-->
+    <div style="position:fixed; right:10px; bottom:40px; width:250px;display:inline-block">
+
+        <a style="background:rgba(230,230,230, 0.8); float:left;width:50px;border-radius: 50%;" href='tel:(626) 966-1360'><img src="/img/call me small.gif" style="width:50px;border-radius: 50%; border-style:solid; border-color:Violet; border-width:thin "></a>
+        <a style="background:rgba(230,230,230, 0.8); float:left;width:50px;border-radius: 50%; margin-left:10px" href='https://g.page/toppronails?share'><img src="/img/directionTransparent.png" style="width:50px;border-radius: 50%; border-style:solid; border-color:Violet; border-width:thin "></a>
+
+
+            <a style="background:rgba(230,230,230, 0.8); float:left;width:50px;border-radius: 50%; margin-left:10px" href='/Home/AppointmentLink'><img src="/img/bookingIcon.png" style="width:50px;border-radius: 50%; border-style:solid; border-color:Violet; border-width:thin "></a>
+        
+    </div>
+
+    <hr style="border-color: Violet; margin-top:100px" />
+    <footer class="text-muted" style="text-align:center; font-size:smaller;padding-bottom: 150px">
+        <p style="margin:1px; font-family:Arial">BOLD(&quot;TOP PRO NAILS&quot;)</p>
+        <p style="margin:1px">579 N AZUSA AVE</p>
+        <p style="margin:1px">COVINA &sbquo;&nbsp;  CA &nbsp; 91722</p>
+        <p style="margin:1px">
+            Phone:
+                <span>(626) 966-1360</span>
+                    </p>
+
+
+    </footer>
+    <!-- jQuery -->
+    <script src="/MySiteTemplate1/vendor/jquery/jquery.min.js"></script>
+    <!-- Bootstrap Core JavaScript -->
+    <script src="/MySiteTemplate1/vendor/bootstrap/js/bootstrap.min.js"></script>
+    <!-- Plugin JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+    <script src="/MySiteTemplate1/vendor/scrollreveal/scrollreveal.min.js"></script>
+    <script src="/MySiteTemplate1/vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+    <!-- Theme JavaScript -->
+    <script src="/MySiteTemplate1/js/creative.min.js"></script>
+
+    
+
+
+
+    <script>
+        //bold and italic bold("bold this text") italics("italic this text") red("make this text red")
+        //https://stackoverflow.com/questions/46019042/how-to-replace-text-containing-string-with-a-html-tag
+        var parserRules = [
+      { pattern: /bold\("(.*?)"\)/g, replacement: '<b>$1</b>' },
+      { pattern: /italics\("(.*?)"\)/g, replacement: '<i>$1</i>' },
+      { pattern: /underline\("(.*?)"\)/g, replacement: '<u>$1</u>' },
+      { pattern: /red\("(.*?)"\)/g, replacement: '<span style ="color:red">$1</span>' },
+      { pattern: /orange\("(.*?)"\)/g, replacement: '<span style ="color:orange">$1</span>' },
+      { pattern: /green\("(.*?)"\)/g, replacement: '<span style ="color:green">$1</span>' },
+      { pattern: /BOLD\("(.*?)"\)/g, replacement: '<b>$1</b>' },
+      { pattern: /ITALICS\("(.*?)"\)/g, replacement: '<i>$1</i>' },
+      { pattern: /UNDERLINE\("(.*?)"\)/g, replacement: '<u>$1</u>' },
+      { pattern: /RED\("(.*?)"\)/g, replacement: '<span style ="color:red">$1</span>' },
+      { pattern: /ORANGE\("(.*?)"\)/g, replacement: '<span style ="color:orange">$1</span>' },
+      { pattern: /GREEN\("(.*?)"\)/g, replacement: '<span style ="color:green">$1</span>' },
+      { pattern: /white\("(.*?)"\)/g, replacement: '<span style ="color:white">$1</span>' },
+        { pattern: /WHITE\("(.*?)"\)/g, replacement: '<span style ="color:white">$1</span>' },
+        { pattern: /BLACK\("(.*?)"\)/g, replacement: '<span style ="color:black">$1</span>' },
+        { pattern: /black\("(.*?)"\)/g, replacement: '<span style ="color:black">$1</span>' },
+        { pattern: /gray\("(.*?)"\)/g, replacement: '<span style ="color:gray">$1</span>' },
+        { pattern: /GRAY\("(.*?)"\)/g, replacement: '<span style ="color:gray">$1</span>' }
+
+        ];
+
+        document.querySelectorAll('.parse').forEach(function (tag) {
+            var inner = tag.innerHTML;
+            parserRules.forEach(function (rule) {
+                inner = inner.replace(rule.pattern, rule.replacement)
+            });
+            tag.innerHTML = inner;
+        });
+    </script>
+
+    <script>
+        $('.showMore').on("click", function () {
+            $(this).addClass('hidden');
+            $(this).siblings('.shortDescription').addClass('hidden');//.parent().addClass('hidden');
+            $(this).siblings('.description').removeClass('hidden');//.parent().addClass('hidden');
+
+        });
+
+
+
+
+    </script>
+
+    <!--collappe menu bar when click outside menu bar -->
+    <script>
+        jQuery('body').bind('click', function (e) {
+            if (jQuery(e.target).closest('.navbar').length == 0) {
+                // click happened outside of .navbar, so hide
+                var opened = jQuery('.navbar-collapse').hasClass('collapse in');
+                if (opened === true) {
+                    jQuery('.navbar-collapse').collapse('hide');
+                }
+            }
+        });
+    </script>
+
+</body>
+</html>
